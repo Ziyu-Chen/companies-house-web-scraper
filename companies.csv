@@ -4,7 +4,7 @@ index,name,website,city,officer,officer_linkedin,note
 3,SMARTIA LTD,https://smartia.tech,Bristol,Mauro Arruda,https://www.linkedin.com/in/mauroarruda/,SMARTIA LTD
 4,TRAMETO LTD,https://www.trameto.com,Chepstow,Huw Davies,,TRAMETO LTD
 5,LEDDERLIMITED,https://ledder.io,Moscow,Alexey Storm,https://www.linkedin.com/in/alexey-storm-450b63180/,LEDDERLIMITED
-6,ABACASXCHANGE [AX],http://www.abacasexchange.com,Philadelphia,Mark  VanRoon,,ABACASXCHANGE [AX]
+6,ABACASXCHANGE,http://www.abacasexchange.com,Philadelphia,Mark  VanRoon,,ABACASXCHANGE [AX]
 7,ALTEREST,https://alterest.co,London,Jeevan Param,,ALTEREST
 8,DIESEL.MARKET OÜ,http://dieselmarketwebsite1.azurewebsites.net,Stuttgart,Dmitry Okatenko,https://www.linkedin.com/in/dmitry-okatenko-06a39427,DIESEL.MARKET OÜ
 9,TALON OPERATING LTD,https://www.talonfms.com/,Brighton,Jonny Dunning,https://www.linkedin.com/in/jonnydunning/,TALON OPERATING LTD
@@ -34,9 +34,9 @@ index,name,website,city,officer,officer_linkedin,note
 33,ZESTY LTD,https://www.zesty.co.uk,London,James Balmain,https://www.linkedin.com/in/jamesbalmain/,ZESTY LTD
 34,ORBITT,https://orbitt.capital/,London,Lanre oloniniyi,https://www.linkedin.com/in/lanre-oloniniyi-60084a115/,ORBITT
 35,SIFT,https://www.sift.ai,London,Christoph Pleitgen,https://www.linkedin.com/in/christoph-pleitgen-077871b/,SIFT
-36,HTTPS://AEQUILL.COM/,https://aequill.com/,London,Jintana Khieochaum,,HTTPS://AEQUILL.COM/
+36,AEQUILL,https://aequill.com/,London,Jintana Khieochaum,,HTTPS://AEQUILL.COM/
 37,STARSTOCK,http://starstock.co.uk,London,Sam Ulph,https://www.linkedin.com/in/samulphstarstock/,STARSTOCK
-38,QREDO CUSTODY NETWORK ,https://www.qredo.com/,"1 Primrose Street, London, EC2A 2EX",Maximillian Engelen,https://www.linkedin.com/in/maximillian-engelen-4328185b/,QREDO CUSTODY NETWORK (2ND APPLICATION)
+38,QREDO CUSTODY NETWORK ,https://www.qredo.com/,London,Maximillian Engelen,https://www.linkedin.com/in/maximillian-engelen-4328185b/,QREDO CUSTODY NETWORK (2ND APPLICATION)
 39,BITFLYX,https://www.bitflyx.com/,Victoria,Aleksandr Krivolap,https://www.linkedin.com/in/aleksandr-krivolap/,BITFLYX
 40,PLAYGORITHM,https://playgorithm.com/,Tel Aviv,Chen Malka,https://www.linkedin.com/in/chen-malka-622986142/,PLAYGORITHM
 41,CARBON PERFORMANCE,https://carbonperformanceltd.com/,Leeds,Revannth N Murugesan,https://www.linkedin.com/in/revannthuk/,CARBON PERFORMANCE
@@ -48,15 +48,15 @@ index,name,website,city,officer,officer_linkedin,note
 47,GLOBLE,http://www.globle.com,Los Angeles,Simon Tian,https://www.linkedin.com/in/ceosimon/,GLOBLE
 48,PATCHER LTD ,https://patcher.co.uk/,London,Reuel Fleary-Griffiths,https://www.linkedin.com/in/reu-el-fleary-griffiths-702b22127/,PATCHER LTD (2ND APPLICATION)
 49,FUELGEMS INC.,http://www.fuelgems.com,San Francisco,Kirill Gichunts,https://www.linkedin.com/in/kirillgichunts,FUELGEMS INC.
-50,INFORMATION GRID LTD. (TRADES AS INFOGRID),https://app.infogrid.io,London,William Cowell de Gruchy,https://www.linkedin.com/in/willcdgruchy/,INFORMATION GRID LTD. (TRADES AS INFOGRID)
+50,INFORMATION GRID LTD.,https://app.infogrid.io,London,William Cowell de Gruchy,https://www.linkedin.com/in/willcdgruchy/,INFORMATION GRID LTD. (TRADES AS INFOGRID)
 51,METABOARDS ,https://www.metaboards.com/,Oxford,Nedko Ivanov,https://www.linkedin.com/in/nedkoivanov/,METABOARDS (2ND APPLICATION)
-52,DIOPTRA (A TRADING NAME OF ZIEGLER ADVISERS LIMITED),https://dioptra.tech,London,Simon Ziegler,https://www.linkedin.com/in/simonziegler,DIOPTRA (A TRADING NAME OF ZIEGLER ADVISERS LIMITED)
+52,ZIEGLER ADVISERS LIMITED,https://dioptra.tech,London,Simon Ziegler,https://www.linkedin.com/in/simonziegler,DIOPTRA (A TRADING NAME OF ZIEGLER ADVISERS LIMITED)
 53,"CERENETEX, INC.",https://www.cerenetex.com/,Newport Beach,Ben Bobo,https://www.linkedin.com/in/benbobo/,"CERENETEX, INC."
 54,MAIDSAFE,https://maidsafe.net/,Ayr,Nick Lambert,https://www.linkedin.com/in/nick-lambert-a760811b,MAIDSAFE
 55,CANDU,https://www.candu.ai/#/,London,Jonathan Anderson,https://www.linkedin.com/in/jonathankanderson/,CANDU
 56,ELEFANT,https://elefantpay.com,London,Vitaly Samsonov,https://www.linkedin.com/in/vitaliy-samsonov-417340179,ELEFANT
-57,DIGITAL FINEPRINT (DFP),https://digitalfineprint.com/,London,Erik Abrahamsson,https://www.linkedin.com/in/boerik/,DIGITAL FINEPRINT (DFP)
-58,JULIAND DIGITAL LTD (ZAPTIC),https://zaptic.com,Manchester,Sandy Reid,,JULIAND DIGITAL LTD (ZAPTIC)
+57,DIGITAL FINEPRINT ,https://digitalfineprint.com/,London,Erik Abrahamsson,https://www.linkedin.com/in/boerik/,DIGITAL FINEPRINT (DFP)
+58,JULIAND DIGITAL LTD ,https://zaptic.com,Manchester,Sandy Reid,,JULIAND DIGITAL LTD (ZAPTIC)
 59,AMIRI HEALTH,,Cambridge,Brian Lynch,,AMIRI HEALTH
 60,STACKER,https://www.stacker.app,London,Michael Skelly,https://www.linkedin.com/in/skellymichael/,STACKER
 61,HIREHAND ,https://www.hirehand.co.uk/,London,Scott Erwin,https://www.linkedin.com/in/scottrerwin/,HIREHAND (3RD APPLICATION)
@@ -68,7 +68,7 @@ index,name,website,city,officer,officer_linkedin,note
 67,SIXLEY LTD,https://sixley.com,London,Paul Naha-Biswas,https://www.linkedin.com/in/paulnahabiswas/,SIXLEY LTD
 68,FINDR LTD,https://findr.me,Edinburgh,Alex Hewitt,https://www.linkedin.com/in/alexhewittphotography,FINDR LTD
 69,PAPIER,http://www.papier.com,London,Taymoor Atighetchi,,PAPIER
-70,RESERVATION.TOOLS,https://www.reservation.tools,Sofia,Dimitar Dimitrov,https://www.linkedin.com/in/dzdimitrov/,RESERVATION.TOOLS
+70,RESERVATION TOOLS,https://www.reservation.tools,Sofia,Dimitar Dimitrov,https://www.linkedin.com/in/dzdimitrov/,RESERVATION.TOOLS
 71,ZOKRI,https://zokri.com,London,Matt Roberts,https://www.linkedin.com/in/robertslondon/,ZOKRI
 72,PROPORTUNITY ,https://proportunity.co,London,VADIM TOADER,https://www.linkedin.com/in/vadimtoader/,PROPORTUNITY (2ND APPLICATION)
 73,TAPOLY,https://www.tapoly.com/,London,Billy Eldridge,,TAPOLY
@@ -85,7 +85,7 @@ index,name,website,city,officer,officer_linkedin,note
 84,MONEYSHAKE HOLDINGS LTD,https://moneyshake.com/,Stoke-on-Trent,Eben Lovatt,,MONEYSHAKE HOLDINGS LTD
 85,OFIXU.COM,https://ofixu.com,London,Dan Hinden,https://www.linkedin.com/in/daniel-hinden-40357616/,OFIXU.COM
 86,DAPV,https://fancydressworldwide.com,Worcester,Dominic Portman,https://www.linkedin.com/in/dominic-portman-1690a953/,DAPV
-87,PERSONABLY (REGISTERED NAME IS CORO LTD.),https://www.personably.co/,London,Katerina Pascoulis,https://www.linkedin.com/in/katerinapascoulis/,PERSONABLY (REGISTERED NAME IS CORO LTD.)
+87,PERSONABLY LTD.,https://www.personably.co/,London,Katerina Pascoulis,https://www.linkedin.com/in/katerinapascoulis/,PERSONABLY (REGISTERED NAME IS CORO LTD.)
 88,W3BCLOUD,http://w3bcloud.com/,Dublin,Balazs Toth,,W3BCLOUD
 89,CARBON,https://carbondmp.com/,Middlesbrough,Pete  Danks,https://www.linkedin.com/in/petedanks/,CARBON
 90,REMOTE BOB,https://www.remotebob.co.uk/,London,Aman Maheshwari,https://www.linkedin.com/in/aman-maheshwari-94860486/ ,REMOTE BOB
@@ -114,7 +114,7 @@ index,name,website,city,officer,officer_linkedin,note
 113,LAEREN.IO,https://laeren.io/,Englewood,Aaron Cash,https://www.linkedin.com/in/aaron-cash-90a34b55/,LAEREN.IO
 114,VINE HEALTH,http://www.vinehealth.ai,London,Rayna Patel,https://www.linkedin.com/in/rayna-patel-5175a476/,VINE HEALTH
 115,MORTA,https://morta.io/,London,Mohammad Shana'a,https://www.linkedin.com/in/mshanaa/,MORTA
-116,THE ONE PLACE CAPITAL LIMITED (T/A MONEY DASHBOARD),https://www.moneydashboard.com/,Edinburgh,Steve Tigar,https://www.linkedin.com/in/steve-tigar/,THE ONE PLACE CAPITAL LIMITED (T/A MONEY DASHBOARD)
+116,THE ONE PLACE CAPITAL LIMITED ,https://www.moneydashboard.com/,Edinburgh,Steve Tigar,https://www.linkedin.com/in/steve-tigar/,THE ONE PLACE CAPITAL LIMITED (T/A MONEY DASHBOARD)
 117,FABRICNANO,https://fabricnano.com/,London,Grant Aarons,https://www.linkedin.com/in/grantaarons/,FABRICNANO
 118,OSCAR SENIOR,https://www.oscarsenior.com/,"London, Brno",Tomas Posker,https://www.linkedin.com/in/tomasposker/,OSCAR SENIOR
 119,DRONE HARMONY,http://droneharmony.com/,Zürich,Haim Volinsky,https://www.linkedin.com/in/haimvolinsky/,DRONE HARMONY
@@ -146,7 +146,7 @@ index,name,website,city,officer,officer_linkedin,note
 145,FINMO,https://finmo.co.uk,London,J.D. Rainey,https://www.linkedin.com/in/jdrainey/,FINMO
 146,VOLTRICS,https://www.voltrics.co.uk,London,gregory cox,https://www.linkedin.com/in/greg-cox-1639b444,VOLTRICS
 147,WI-Q LTD,https://www.wi-q.com/,London,Saeed Soheily,,WI-Q LTD
-148,SYMBIOCO (TRADING NAME POLIPOP),https://www.polipop.co.uk,London,Aaron Koshy,https://www.linkedin.com/in/aaron-koshy-123amk/,SYMBIOCO (TRADING NAME POLIPOP)
+148,SYMBIOCO LTD,https://www.polipop.co.uk,London,Aaron Koshy,https://www.linkedin.com/in/aaron-koshy-123amk/,SYMBIOCO (TRADING NAME POLIPOP)
 149,KYTE,https://gokyte.com,London,Sam Houghton,https://www.linkedin.com/in/sam-houghton-4b81b1104/,KYTE
 150,MANFEN EDTECH,https://perfectscore.app,Southampton,YUJING LU,https://www.linkedin.com/in/yujing-lu-a0770a91,MANFEN EDTECH
 151,CAMBRIDGE ELECTRIC TRANSPORT,https://www.bizbike.club,Cambridge,Sean Moroney,,CAMBRIDGE ELECTRIC TRANSPORT
@@ -163,12 +163,12 @@ index,name,website,city,officer,officer_linkedin,note
 162,INFOBOSS LIMITED,https://www.infoboss.co.uk,Birmingham,Mark Hobart,https://www.linkedin.com/in/markhobart/,INFOBOSS LIMITED
 163,MARKTOMARKET VALUATIONS LIMITED,https://www.marktomarket.io,Edinburgh,Douglas Lawson,https://www.linkedin.com/in/douglas-lawson-9a72058/,MARKTOMARKET VALUATIONS LIMITED
 164,AURO ,https://www.auro.fit,London,Anantharaman Pattabiraman,https://www.linkedin.com/in/anantharaman-pattabiraman-87532a4/,AURO (3RD APPLICATION)
-165,FUNDS4TALENTS (REGISTERED AS INCOME SHARE LTD),https://funds4talents.com/,London,Christopher Muelhausen,https://www.linkedin.com/in/christopher-muelhausen-38384bb0/,FUNDS4TALENTS (REGISTERED AS INCOME SHARE LTD)
+165,INCOME SHARE LTD,https://funds4talents.com/,London,Christopher Muelhausen,https://www.linkedin.com/in/christopher-muelhausen-38384bb0/,FUNDS4TALENTS (REGISTERED AS INCOME SHARE LTD)
 166,GYANA,https://www.gyana.co.uk,London,Joyeeta Das,https://www.linkedin.com/in/joyeeta-das-9124471a/,GYANA
 167,MISHIKO UK LTD,http://mishiko.io/,London,Roman Plyushchenkov,https://www.linkedin.com/in/roman-plyushchenkov-2109472/,MISHIKO UK LTD
 168,WEARABLE LINK,http://wearable-link.com,Bromsgrove,Tommy Williams,https://www.linkedin.com/in/tommy-j-williams,WEARABLE LINK
 169,CASCADE VENTURES,http://www.cascade-ventures.com,Cardiff,Jeffrey Bartlett,https://www.linkedin.com/in/jeffbartlett/,CASCADE VENTURES
-170,ALBUS HEALTH (REGISTERED AS BREATHEOX LIMITED),https://www.albushealth.com/,Oxford,Mikesh Udani,https://www.linkedin.com/in/mikesh-udani,ALBUS HEALTH (REGISTERED AS BREATHEOX LIMITED)
+170,BREATHEOX LIMITED,https://www.albushealth.com/,Oxford,Mikesh Udani,https://www.linkedin.com/in/mikesh-udani,ALBUS HEALTH (REGISTERED AS BREATHEOX LIMITED)
 171,MEDISHOUT,https://MediShout.co.uk,London,Ashish Kalraiya,https://www.linkedin.com/in/ash-kalraiya-0383b7128/,MEDISHOUT
 172,OXTO LTD,http://www.oxtoenergy.com,Guildford,George Prassinos,https://www.linkedin.com/in/prassinos/,OXTO LTD
 173,HIP,https://hip.com/,London,Andrew Gerrard,,HIP
@@ -177,7 +177,7 @@ index,name,website,city,officer,officer_linkedin,note
 176,RIGHTSDD LIMITED ,https://www.rightsdd.com,London,Oliver Cushing,https://www.linkedin.com/in/oliver-cushing-38256755,RIGHTSDD LIMITED (2ND APPLICATION)
 177,DX COMPLIANCE SOLUTIONS LIMITED,http://www.dx-solutions.ie,Dublin,Simon Dix,,DX COMPLIANCE SOLUTIONS LIMITED
 178,DIGI-HAWK LTD,https://www.digi-hawk.com,Liverpool,Robert Dobson,https://www.linkedin.com/in/robert-dobson-337a9a117/,DIGI-HAWK LTD
-179,TAMARIN GROUP LTD (TRADING AS MYTAMARIN),https://mytamarin.com/,London,Zarja Cibej,https://www.linkedin.com/in/zarjacibej/,TAMARIN GROUP LTD (TRADING AS MYTAMARIN)
+179,TAMARIN GROUP LTD,https://mytamarin.com/,London,Zarja Cibej,https://www.linkedin.com/in/zarjacibej/,TAMARIN GROUP LTD (TRADING AS MYTAMARIN)
 180,SKYRORA,http://www.skyrora.com,Edinburgh,Owain Hughes,https://www.linkedin.com/in/owain-hughes-5b9245a7/,SKYRORA
 181,EMBER DIGITAL LIMITED,https://emberbank.com/,London,Daniel Hogan,https://www.linkedin.com/in/danhogan11/,EMBER DIGITAL LIMITED
 182,OLDENCARS,http://oldencars.com,London,Allister Mannion,https://www.linkedin.com/in/allister-mannion-2a32ba17b/,OLDENCARS
@@ -206,7 +206,7 @@ index,name,website,city,officer,officer_linkedin,note
 205,THE FAN AREA,http://www.jafaapp.com,London,Dan Bedi,https://www.linkedin.com/in/dan-bedi-b123263a/,THE FAN AREA
 206,WAU MOTORS LTD.,https://www.waubike.com/modelx/,Nottingham,Linas  T. Pozerskis,https://www.linkedin.com/in/linas-pozerskis/,WAU MOTORS LTD.
 207,CARANDAWAY LIMITED,https://www.carandaway.com,Wooburn Green,Andy Hibbert,https://www.linkedin.com/in/andyjhibbert/,CARANDAWAY LIMITED
-208,"INFLUX INTERACTIVE TECHNOLOGY, LLC",https://www.influxworldwide.com,Chennai,Harish Anand Thilakan,https://www.linkedin.com/in/harishanandthilakan,"INFLUX INTERACTIVE TECHNOLOGY, LLC"
+208,INFLUX INTERACTIVE TECHNOLOGY,https://www.influxworldwide.com,Chennai,Harish Anand Thilakan,https://www.linkedin.com/in/harishanandthilakan,"INFLUX INTERACTIVE TECHNOLOGY, LLC"
 209,SUBBA MEDIA,http://www.subba-cultcha.com/,London,Mark Jennings,https://www.linkedin.com/in/mjennings1/,SUBBA MEDIA
 210,IZAR,,London,Muhammed ElDemerdash,,IZAR
 211,QIKSERVE,https://www.qikserve.com/,Edinburgh,Khilan Shah,,QIKSERVE
@@ -224,13 +224,13 @@ index,name,website,city,officer,officer_linkedin,note
 223,BRIGHT IDEA EDUCATION,https://www.brightidea-edu.com,Glasgow,Ibrahim Farook,https://www.linkedin.com/in/ibrahim-farook/,BRIGHT IDEA EDUCATION
 224,GRAKN LABS LTD,http://www.grakn.ai,London,Tomas Sabat Stofsel,https://www.linkedin.com/in/tom%C3%A1s-sabat-83265841/,GRAKN LABS LTD
 225,ONE UTILITY BILL ,https://oneutilitybill.co/,Newcastle upon Tyne,Chris Dawson,https://www.linkedin.com/in/chris-dawson-b85b6b69/,ONE UTILITY BILL (2ND APPLICATION)
-226,FOOMERANG LIMITED (T/A HOMECOOKED UK),https://homecookeduk.com/,London,Anestis Gaitanidis,https://www.linkedin.com/in/anestis-gaitanidis-787237179/,FOOMERANG LIMITED (T/A HOMECOOKED UK)
+226,FOOMERANG LIMITED,https://homecookeduk.com/,London,Anestis Gaitanidis,https://www.linkedin.com/in/anestis-gaitanidis-787237179/,FOOMERANG LIMITED (T/A HOMECOOKED UK)
 227,BRAND AMI LTD,https://www.mylittleexplorer.co.uk,Gateshead,Ami  Davies,https://www.linkedin.com/in/ami-davies-40290683/,BRAND AMI LTD
 228,ZORCE.IO,https://zorce.io ,Bristol,Ian Gibbons,https://www.linkedin.com/in/twenty2zero/,ZORCE.IO
 229,SHOP2PLAY LIMITED ,https://shop2play.com,London,Mark Johnston,https://www.linkedin.com/in/mark-johnston-98566715/,SHOP2PLAY LIMITED (2ND APPLICATION)
 230,ELECTIVE TECHNOLOGY LTD,https://recii.io,Leeds,Gareth Christian-Lim,https://www.linkedin.com/in/gareth-christian-lim-3016912/,ELECTIVE TECHNOLOGY LTD
 231,GOVIDDO ,https://goviddo.com/,London,Pratik Shelar,linkedin.com/in/shelarpratik/,GOVIDDO (3RD APPLICATION)
-232,BEEP (REGISTERED AT KIELY & CO.),https://wearebeep.com/,Sheffield,KATZ KIELY,https://www.linkedin.com/in/katzyk/,BEEP (REGISTERED AT KIELY & CO.)
+232,WE ARE BEEP,https://wearebeep.com/,Sheffield,KATZ KIELY,https://www.linkedin.com/in/katzyk/,BEEP (REGISTERED AT KIELY & CO.)
 233,RIGHTSDD LIMITED,https://www.rightsdd.com,London,Oliver Cushing,https://www.linkedin.com/in/oliver-cushing-38256755,RIGHTSDD LIMITED
 234,EMSOL - EMISSION SOLUTIONS LIMITED,https://emsol.io/,London,Freddie Talberg,https://www.linkedin.com/in/freddietalberg/,EMSOL - EMISSION SOLUTIONS LIMITED
 235,ICOMMUNITY LABS,https://icommunity.io/en/ibs-verticals/,Madrid,Miguel Angel Pérez,https://www.linkedin.com/in/mapg1972/,ICOMMUNITY LABS
@@ -250,7 +250,7 @@ index,name,website,city,officer,officer_linkedin,note
 249,OROSON ,https://oroson.co/,Belfast,Daniel McGlade,https://www.linkedin.com/in/daniel-mc-glade-716b684b/,OROSON (2ND APPLICATION)
 250,DRAGONGLASS,https://dragonglass.com,Tallinn,Gleb Skibitsky,https://www.linkedin.com/in/skibitsky/,DRAGONGLASS
 251,CONSORTO,https://www.consorto.com,Tallinn,Philip Verzun,https://www.linkedin.com/in/philipverzun/,CONSORTO
-252,ASENSUS (HOLDING COMPANY IS EDGEVENTURE LTD),https://workinprogress.com,Edinburgh,Paul Smillie,https://www.linkedin.com/in/paul-smillie-332b66a/,ASENSUS (HOLDING COMPANY IS EDGEVENTURE LTD)
+252,ASENSUS,https://workinprogress.com,Edinburgh,Paul Smillie,https://www.linkedin.com/in/paul-smillie-332b66a/,ASENSUS (HOLDING COMPANY IS EDGEVENTURE LTD)
 253,AQUILAI LTD,https://aquil.ai,Cheltenham,Paul Chapman,https://www.linkedin.com/in/paul-chapman-b12b75b7/,AQUILAI LTD
 254,ALIGN INVESTING,http://aligninvesting.com,Boulder,Jeff Lesser,https://www.linkedin.com/in/jefflesser,ALIGN INVESTING
 255,SIGMA POLARIS,https://www.sigmapolaris.com,Bristol,Nemo D'Qrill,https://www.linkedin.com/in/nemo-the-great-dane/,SIGMA POLARIS
@@ -259,7 +259,7 @@ index,name,website,city,officer,officer_linkedin,note
 258,HEALTHYHEALTH,http://www.healthyhealth.uk,London,Luca Schnettler,https://www.linkedin.com/in/lucaschnettler,HEALTHYHEALTH
 259,9FIN ,http://9fin.com,London,Steven Hunter,https://www.linkedin.com/in/stevenjohnh/,9FIN (2ND APPLICATION)
 260,EHAB ,https://ehab.co,London,Josh Graham,https://www.linkedin.com/in/joshmcgraham/,EHAB (2ND APPLICATION)
-261,FORT FINANCIAL CRYPTO (FORTFC),https://fortfc.com,Saint Petersburg,Evgeniy  Filichkin,https://www.linkedin.com/in/evgeniy-filichkin-b810b0b/,FORT FINANCIAL CRYPTO (FORTFC)
+261,FORT FINANCIAL CRYPTO,https://fortfc.com,Saint Petersburg,Evgeniy  Filichkin,https://www.linkedin.com/in/evgeniy-filichkin-b810b0b/,FORT FINANCIAL CRYPTO (FORTFC)
 262,RAVEN.GG LIMITED,https://raven.gg,Bristol,Robert Loveday,https://www.linkedin.com/in/rob-loveday-69b88410/,RAVEN.GG LIMITED
 263,PAYFLIC LIMITED ,https://payflic.com,Birmingham,Ben Goodenough,https://www.linkedin.com/in/ben-goodenough-7a5310105/,PAYFLIC LIMITED (2ND APPLICATION)
 264,XCOYNZ LTD,https://www.xcoynz.com/,London,Aasam Alim,https://www.linkedin.com/in/aasam/,XCOYNZ LTD
@@ -271,7 +271,7 @@ index,name,website,city,officer,officer_linkedin,note
 270,PACLA MEDICAL,https://www.robophysio.com,Edinburgh,Chongsu Lee,https://www.linkedin.com/in/chongsu-lee-3600772a/,PACLA MEDICAL
 271,WAX WALI,https://waxwali.com,Islamabad,Abdul Ali,,WAX WALI
 272,BOOKMAP ECOSYSTEM,https://ico.bookmap.eu/,Tallinn,Viktor Juhanson,https://www.linkedin.com/in/viktor-juhanson-2b0a3a141/,BOOKMAP ECOSYSTEM
-273,EMPLOYEE REPUBLIC LTD T/A YAPSTER,http://www.yapster.com,London,Rob  Liddiard,https://www.linkedin.com/in/robertliddiard,EMPLOYEE REPUBLIC LTD T/A YAPSTER
+273,EMPLOYEE REPUBLIC LTD,http://www.yapster.com,London,Rob  Liddiard,https://www.linkedin.com/in/robertliddiard,EMPLOYEE REPUBLIC LTD T/A YAPSTER
 274,LAYBUYTRAVEL,https://www.laybuytravel.com,Manchester,Mohammed Abu Moeilak,https://www.linkedin.com/in/mohammedabumoeilak,LAYBUYTRAVEL
 275,3D LIFEPRINTS ,https://www.3dlifeprints.com/,Liverpool,Henry Pinchbeck,https://www.linkedin.com/in/henry-pinchbeck-7357b43/,3D LIFEPRINTS (2ND APPLICATION)
 276,COLOUR BALANCE IMAGES LTD,https://www.colourbalanceimages.com/,London,Stacie Graham,https://www.linkedin.com/in/dr-stacie-cc-graham/,COLOUR BALANCE IMAGES LTD
@@ -284,14 +284,14 @@ index,name,website,city,officer,officer_linkedin,note
 283,SMILETRONIX,http://www.smiletronix.com,Barcelona,Yashar  Faranjani,https://www.linkedin.com/in/yashar-faranjani-1088192a/,SMILETRONIX
 284,XIHELM,https://www.xihelm.com,London,James Kent,https://www.linkedin.com/in/jamesakent,XIHELM
 285,BACK 2 BUSINESS,http://back2business-int.com/,London,Shuting Zhang,,BACK 2 BUSINESS
-286,GOODBOX (REGISTERED AS THE GOOD BOX CO LABS LTD) ,https://www.goodbox.com,Manchester,Andrew O’Brien,,GOODBOX (REGISTERED AS THE GOOD BOX CO LABS LTD) (2ND APPLICATION)
+286,THE GOOD BOX CO LABS LTD,https://www.goodbox.com,Manchester,Andrew O’Brien,,GOODBOX (REGISTERED AS THE GOOD BOX CO LABS LTD) (2ND APPLICATION)
 287,CLEDARA,https://www.cledara.com,London,Cristina Vila,https://www.linkedin.com/in/cvilavives/,CLEDARA
 288,ALAYA,https://alayagood.com/en/,Gland,Guillaume Granelli,https://www.linkedin.com/in/guillaume-granelli-22a306a4/,ALAYA
 289,BETMARKETS,https://www.betmarkets.io,Porto,Andre Florido da Costa,https://www.linkedin.com/in/andrefloridodacosta/,BETMARKETS
 290,IOTECH SYSTEMS LTD ,https://www.iotechsys.com,Newcastle upon Tyne,Keith Steele,,IOTECH SYSTEMS LTD (2ND APPLICATION)
 291,FAIR CUSTODIAN,https://www.faircustodian.com,Newcastle upon Tyne,Saul Gowens,,FAIR CUSTODIAN
 292,INROADZ,https://store.inroadz.com,Noida,Abhishek Singhal,https://www.linkedin.com/in/asinghalimba/,INROADZ
-293,SHAPEHOLDINGS LTD/TA BUA FIT,https://buafit.co.uk/,London,Dave Stapleton,,SHAPEHOLDINGS LTD/TA BUA FIT
+293,SHAPEHOLDINGS LTD,https://buafit.co.uk/,London,Dave Stapleton,,SHAPEHOLDINGS LTD/TA BUA FIT
 294,MEDIFIES,https://www.medifies.com/,San Francisco,Nate Pagel,,MEDIFIES
 295,YESCHEF LTD.,https://yeschef.me,Tel Aviv Region,Steve Avery,https://www.linkedin.com/in/steveavery1,YESCHEF LTD.
 296,SAVEIFI LTD,https://www.saveifi.com/,London,Dale Adamson,,SAVEIFI LTD
@@ -306,7 +306,7 @@ index,name,website,city,officer,officer_linkedin,note
 305,TACTFUL LTD,https://www.tactful.ai,Cambridge,mohamed elmasry,https://www.linkedin.com/in/mohamedabdulghany/,TACTFUL LTD
 306,PERYTON,http://www.peryton.io/,Birmingham,Mitesh Parmar,https://www.linkedin.com/in/miteshparmar1/,PERYTON
 307,WELLBEINGS GAMES LTD,http://wellbeings.games,Falmouth,Mark Ripley,https://www.linkedin.com/in/mark-ripley/,WELLBEINGS GAMES LTD
-308,UNIFI.ID (REWARD TECHNOLOGY LTD.) ,https://unifi.id,London,Paul Sheedy,https://www.linkedin.com/in/paul-sheedy-2786863/,UNIFI.ID (REWARD TECHNOLOGY LTD.) (2ND APPLICATION)
+308,UNIFI.ID,https://unifi.id,London,Paul Sheedy,https://www.linkedin.com/in/paul-sheedy-2786863/,UNIFI.ID (REWARD TECHNOLOGY LTD.) (2ND APPLICATION)
 309,TIDAL LABS,https://tid.al,New York,Matthew Myers,https://www.linkedin.com/in/matthewmyers/,TIDAL LABS
 310,XPO APP LTD,https://www.xpo-app.com,London,Lotanna Ezeike,https://www.linkedin.com/in/lotanna-ezeike-7b113966/?originalSubdomain=uk,XPO APP LTD
 311,CONIQO,http://coniqo.com/,London,Ilias Kotzampasis,https://www.linkedin.com/in/ilias-kotzampasis,CONIQO
@@ -326,7 +326,7 @@ index,name,website,city,officer,officer_linkedin,note
 325,SYNAPTEC LTD,https://synapt.ec/,Glasgow,Philip Orr,https://www.linkedin.com/in/orrphilip/,SYNAPTEC LTD
 326,NEIGHBOURHOODFOOD LIMITED ,https://getfed.net/,Glasgow,William Anderson,,NEIGHBOURHOODFOOD LIMITED (2ND APPLICATION)
 327,GLOBAL-365 PLC ,https://www.global-365.com,Warrington,William Wilson,,GLOBAL-365 PLC (2ND APPLICATION)
-328,MCKINLEY SERVICES LIMITED (DANGERFIELD),https://www.dangerfieldglobal.com,Manchester,Martin Dangerfield,https://www.linkedin.com/in/martindangerfield/,MCKINLEY SERVICES LIMITED (DANGERFIELD)
+328,MCKINLEY SERVICES LIMITED,https://www.dangerfieldglobal.com,Manchester,Martin Dangerfield,https://www.linkedin.com/in/martindangerfield/,MCKINLEY SERVICES LIMITED (DANGERFIELD)
 329,STYLEVISIT,https://stylevisit.com,Hamburg,Roman Rozenberg,,STYLEVISIT
 330,THE ACTIVES,https://www.theactiveschallenge.com,London,Ross McDonald,,THE ACTIVES
 331,BITE THE BIT,,Bologna,mattia greco,https://www.linkedin.com/in/matgreek/,BITE THE BIT
@@ -368,14 +368,14 @@ index,name,website,city,officer,officer_linkedin,note
 367,PYCOM,http://www.pycom.io,Guildford,Bettina Slater,https://www.linkedin.com/in/bettinarubekslater/,PYCOM
 368,THE HAPPINESS QUOTIENT LTD,,Derby,Julian Hall,https://www.linkedin.com/in/julianhallofcalmpeople/,THE HAPPINESS QUOTIENT LTD
 369,VEELOOP LTD,https://www.veeloop.com,London,Patricia  Salume,,VEELOOP LTD
-370,NERDEO (LEGAL NAME: NERDS UNITED VFX LTD),http://www.nerdeo.net/,London,caroline pires,https://www.linkedin.com/in/carolinepires/,NERDEO (LEGAL NAME: NERDS UNITED VFX LTD)
-371,VARITI INTERNATIONAL GMBH / VARITI MANAGEMENT SERVICES LTD,https://variti.com,Lucerne,Konstantin Kamenetsky,https://www.linkedin.com/in/konstantin-kamenetsky-621a173/,VARITI INTERNATIONAL GMBH / VARITI MANAGEMENT SERVICES LTD
+370,NERDS UNITED VFX LTD,http://www.nerdeo.net/,London,caroline pires,https://www.linkedin.com/in/carolinepires/,NERDEO (LEGAL NAME: NERDS UNITED VFX LTD)
+371,VARITI MANAGEMENT SERVICES LTD,https://variti.com,Lucerne,Konstantin Kamenetsky,https://www.linkedin.com/in/konstantin-kamenetsky-621a173/,VARITI INTERNATIONAL GMBH / VARITI MANAGEMENT SERVICES LTD
 372,NANOFLEX LTD,http://www.nanoflex.com,Daresbury,Neville Freeman,https://www.linkedin.com/in/neville-freeman-6107972,NANOFLEX LTD
 373,ELECTRON,http://www.electron.org.uk,London,Joanna Hubbard,https://www.linkedin.com/in/joanna-hubbard-76bb7723/?originalSubdomain=uk,ELECTRON
 374,NUANCED,https://www.nuanced.io,London,Ellie Howard,https://www.linkedin.com/in/elliehoward/,NUANCED
 375,KONNECT DIGITAL LTD.,https://dice.konnect.digital,London,Sid Khemka,https://www.linkedin.com/in/sidkhemka/,KONNECT DIGITAL LTD.
 376,SINGULAR INTELLIGENCE LIMITED ,http://www.singularintelligence.com,Oxford,Sarvesh Kumar,https://www.linkedin.com/in/sarveshkumar01/,SINGULAR INTELLIGENCE LIMITED (2ND APPLICATION)
-377,CREDITCOIN NETWORK (CCOIN),https://cointoken.io,Los Angeles,Ali Sammour,https://www.linkedin.com/in/alisammour,CREDITCOIN NETWORK (CCOIN)
+377,CREDITCOIN NETWORK,https://cointoken.io,Los Angeles,Ali Sammour,https://www.linkedin.com/in/alisammour,CREDITCOIN NETWORK (CCOIN)
 378,DIRECT SOFTWARE,https://www.directsoftwareltd.com,Livingston,Ruari Baker,https://www.linkedin.com/in/ruaribaker/,DIRECT SOFTWARE
 379,SAYAG,,Choibalsan,Byambaa Enkhbayar,,SAYAG
 380,SPORTSCIENTIA PTE LTD,http://www.sportscientia.com/,Singapore,Peter Lazou,https://www.linkedin.com/in/peterlazou/,SPORTSCIENTIA PTE LTD
@@ -483,7 +483,7 @@ index,name,website,city,officer,officer_linkedin,note
 482,DOBOT LIMITED ,,London,Barry Walls,https://www.linkedin.com/in/barry-walls/,DOBOT LIMITED (2ND APPLICATION)
 483,IOMOB,https://www.iomob.net,Barcelona,Boyd Cohen,https://www.linkedin.com/in/boyd-cohen-ph-d-211869a?originalSubdomain=es,IOMOB
 484,VCARE SYSTEMS LTD,https://www.vcaresystems.co.uk,London,Kalpesh Shah,,VCARE SYSTEMS LTD
-485,MAKE IT PLAIN LTD T/A KINTERACT ,https://www.kinteract.com,Banbury,Shehzad Najib,https://www.linkedin.com/in/shehzadnajib/,MAKE IT PLAIN LTD T/A KINTERACT (2ND APPLICATION)
+485,MAKE IT PLAIN LTD,https://www.kinteract.com,Banbury,Shehzad Najib,https://www.linkedin.com/in/shehzadnajib/,MAKE IT PLAIN LTD T/A KINTERACT (2ND APPLICATION)
 486,GORILLA IN THE ROOM LIMITED,https://gorillaitr.com,Brighton,Jonathan Barrowman,https://www.linkedin.com/in/jonathanbarrowman/,GORILLA IN THE ROOM LIMITED
 487,TRIPISM LTD ,,Cambridge,Adam Kerr,https://www.linkedin.com/in/adamkerr/,TRIPISM LTD (3RD APPLICATION)
 488,UNTIED,https://www.untied.io,London,Kevin Sefton,https://www.linkedin.com/in/kevinseftonideas/,UNTIED
@@ -525,7 +525,7 @@ index,name,website,city,officer,officer_linkedin,note
 524,QFLOW,http://qualisflow.com/,London,Brittany Harris,https://www.linkedin.com/in/brittany-harris-65911566/,QFLOW
 525,COURSEMATCH ,https://www.coursematch.io,Birmingham,Chris Worsey,https://www.linkedin.com/in/chrisworsey,COURSEMATCH (2ND APPLICATION)
 526,H22018SUW - TY,www.rise.ai,Rotherham,Timo York,https://www.linkedin.com/in/timoyork/,H22018SUW - TY
-527,H22018SUW - RP,Control.life,Manchester (the home of music),Ryan Procter,https://www.linkedin.com/in/ryanprocter/,H22018SUW - RP
+527,H22018SUW - RP,Control.life,Manchester,Ryan Procter,https://www.linkedin.com/in/ryanprocter/,H22018SUW - RP
 528,GRID EDGE,https://www.gridedge.co.uk/ ,Birmingham,Tom Anderson,https://www.linkedin.com/in/tajanderson/,GRID EDGE
 529,H22018SUW - KT,http://manutd.com,Manchester,Keith Teare,http://linkedin.com/in/kteare,H22018SUW - KT
 530,H22018SUW - DF,Unime.com,London,David Fogel,linkedin/david/unime ,H22018SUW - DF
@@ -549,7 +549,7 @@ index,name,website,city,officer,officer_linkedin,note
 548,GRIDIZEN,http://gridizen.co.uk/,London,Ibrahim Ferullo,https://www.linkedin.com/in/ibrahim-ferullo-12a97555/,GRIDIZEN
 549,LINETEN ,https://www.lineten.com/,London,Ben Scallan,https://www.linkedin.com/in/ben-s-57663419/,LINETEN (2ND APPLICATION)
 550,SUPPLYCOMPASS,https://www.supplycompass.com,London,Gus Bartholomew,https://www.linkedin.com/in/gusbartholomew/,SUPPLYCOMPASS
-551,RESIDENTMENU.COM,,Shrewsbury,Chris Dunst,https://www.linkedin.com/in/crdunst/,RESIDENTMENU.COM
+551,RESIDENTMENU COM,,Shrewsbury,Chris Dunst,https://www.linkedin.com/in/crdunst/,RESIDENTMENU.COM
 552,KIPWISE INC.,https://kipwise.com,Tallinn,Kwun Ng,https://www.linkedin.com/in/kwun-lok-ng/,KIPWISE INC.
 553,EASI PROJECTS LIMITED,,Newcastle upon Tyne,Christian Harrison,,EASI PROJECTS LIMITED
 554,PROPRLI,https://proprli.com,London,Coen Geesing,https://www.linkedin.com/in/coen-geesing-8700341b/,PROPRLI
@@ -613,7 +613,7 @@ index,name,website,city,officer,officer_linkedin,note
 612,VOGUE ACCOUNTING,https://www.apari.co.uk,Rugby,Sudesh Sud,https://www.linkedin.com/in/sudesh-sud/,VOGUE ACCOUNTING
 613,SHIP IT LAB  LTD.,https://shipitlab.com,Rijeka,Zeljko Bacev,https://www.linkedin.com/in/zeljkobacev,SHIP IT LAB  LTD.
 614,BITPOSTER,http://www.bitposter.co,London,Aidan Neill,https://www.linkedin.com/in/aidanneill,BITPOSTER
-615,FREEUP FINANCE (FREEUP.IO),http://www.freeup.io,london,Reuben Saxon,https://www.linkedin.com/in/reuben-alexander-saxon-78273328/,FREEUP FINANCE (FREEUP.IO)
+615,FREEUP FINANCE,http://www.freeup.io,london,Reuben Saxon,https://www.linkedin.com/in/reuben-alexander-saxon-78273328/,FREEUP FINANCE (FREEUP.IO)
 616,LOGICALPLAN,https://www.logicalplan.com,Šumperk,Jakub Helešic,https://www.linkedin.com/in/jakub-hele%C5%A1ic-88065098/,LOGICALPLAN
 617,HOSPIFY LIMITED,https://www.hospify.com,Clitheroe,James Flint,https://www.linkedin.com/in/jbflint/,HOSPIFY LIMITED
 618,PLOTBOX ,http://www.plotbox.io,Ballymena,Sean McAllister,https://www.linkedin.com/in/seanmcallister1/,PLOTBOX (2ND APPLICATION)
@@ -627,7 +627,7 @@ index,name,website,city,officer,officer_linkedin,note
 626,RYMINDR,https://www.rymindr.me,Hornchurch,Rav  Panesar,,RYMINDR
 627,INDUCTOSENSE LIMITED ,http://www.inductosense.com,Bristol,Matt Butcher,https://www.linkedin.com/in/mjbutcher,INDUCTOSENSE LIMITED (2ND APPLICATION)
 628,MACHINE ADVERTSISNG LTD,https://machineadvertising.com/,London,Gary Danks,https://www.linkedin.com/in/gary-danks-58259811/,MACHINE ADVERTSISNG LTD
-629,MOREDRIVE LTD  (TRADING AS YOUMI),https://youmidrive.co.uk/,Birmingham,Banwo Idowu,https://www.linkedin.com/in/banwo-idowu-01632994/?originalSubdomain=uk,MOREDRIVE LTD  (TRADING AS YOUMI)
+629,MOREDRIVE LTD,https://youmidrive.co.uk/,Birmingham,Banwo Idowu,https://www.linkedin.com/in/banwo-idowu-01632994/?originalSubdomain=uk,MOREDRIVE LTD  (TRADING AS YOUMI)
 630,SNIIPER,https://sniiper.co.uk/,London,Luke Pitkin,https://www.linkedin.com/in/luke-pitkin-79060094/,SNIIPER
 631,GRANTA INNOVATION LTD,https://granta.io,Cambridge,Antony Rix,https://www.linkedin.com/in/antonyrix/,GRANTA INNOVATION LTD
 632,NOWAX (K) LIMITED,,Nairobi,Benard Mutua,,NOWAX (K) LIMITED
@@ -648,7 +648,7 @@ index,name,website,city,officer,officer_linkedin,note
 647,FLYT AVIATION LTD ,https://www.flythq.com,London,Andy King,https://www.linkedin.com/in/andy-king/,FLYT AVIATION LTD (2ND APPLICATION)
 648,FITTEVER LTD,https://www.fittever.com/,Oxford,Piers Chen,https://www.linkedin.com/in/piers-chen/,FITTEVER LTD
 649,FRACTURE LABS,https://www.decimated.net,Sliema,Stephen Arnold,https://www.linkedin.com/in/pixelissue,FRACTURE LABS
-650,EXACTTRAK (2ND APPLICATION #'P[0-),http://www.exacttrak.com,Banbury,Norman Shaw,@exacttrak.com,EXACTTRAK (2ND APPLICATION #'P[0-)
+650,EXACTTRAK,http://www.exacttrak.com,Banbury,Norman Shaw,@exacttrak.com,EXACTTRAK (2ND APPLICATION #'P[0-)
 651,CHILD ANGEL LIMITED,http://www.child-angel.com/#home-tabs,Newcastle-under-Lyme,Andrew  Purcell,https://www.linkedin.com/in/andrewpurcellceo-childangel/,CHILD ANGEL LIMITED
 652,UNUHI LTD,https://unuhi.com/,Oxford,Mark Bassett,https://www.linkedin.com/in/mark-bassett-3349073a/,UNUHI LTD
 653,AURA VISION,https://auravisionlabs.com,London,Daniel Martinho-Corbishley,https://www.linkedin.com/in/danielmartinhocorbishley/,AURA VISION
@@ -668,7 +668,7 @@ index,name,website,city,officer,officer_linkedin,note
 667,DONATE THE CHANGE LTD,https://www.donatethechange.org,Reading,Mike Dunn,https://www.linkedin.com/in/mikedunn36,DONATE THE CHANGE LTD
 668,FDR LONDON,https://www.thejackalmagazine.com https://thejackal.studio,London,Darren Sital-Singh,https://www.linkedin.com/in/darren-sital-singh-8951144/,FDR LONDON
 669,CARDALPHA LTD,https://cardalpha.com,London,Rohit Bhatnagar,https://www.linkedin.com/in/rohitbhatnagar,CARDALPHA LTD
-670,WWH HOLDINGS T/A KARAKURI,http://karakuri.tech/,London,Barney Wragg,https://www.linkedin.com/in/bwragg/,WWH HOLDINGS T/A KARAKURI
+670,KARAKURI LTD,http://karakuri.tech/,London,Barney Wragg,https://www.linkedin.com/in/bwragg/,WWH HOLDINGS T/A KARAKURI
 671,ARETE MEDICAL TECHNOLOGIES LTD,http://www.aretemedtech.com,Cambridge,Graeham Douglas,https://www.linkedin.com/in/graeham-douglas-37212713/,ARETE MEDICAL TECHNOLOGIES LTD
 672,CUMULUS1,http://www.cumulus1.network,London,Remel Marcelle,https://www.linkedin.com/in/remel-marcelle-6ba81450/,CUMULUS1
 673,VAICNET.COM LTD,https://www.vaicnet.com,Swindon,Kean Dumba,,VAICNET.COM LTD
@@ -711,13 +711,13 @@ index,name,website,city,officer,officer_linkedin,note
 710,LINK BIG ,https://www.link-big.com/,Birmingham,Nadav Raviv,https://www.linkedin.com/in/nadavraviv/,LINK BIG (3RD APPLICATION)
 711,VRCO,http://www.vrco.co.uk/,Derby,stephen sacks,https://www.linkedin.com/in/stephensacks/,VRCO
 712,WITH ROAM LIMITED,https://withroam.com/,London,Joey Kotkins,https://www.linkedin.com/in/joeykotkins/,WITH ROAM LIMITED
-713,SIGNPLAY LIMITED/SELECT INNOVATIONS LIMITED - TRADING AS ENLIGHT,http://enlight.network,Loddon,Gary Atkinson,https://www.linkedin.com/in/garyatkinson/,SIGNPLAY LIMITED/SELECT INNOVATIONS LIMITED - TRADING AS ENLIGHT
+713,SIGNPLAY LIMITED,http://enlight.network,Loddon,Gary Atkinson,https://www.linkedin.com/in/garyatkinson/,SIGNPLAY LIMITED/SELECT INNOVATIONS LIMITED - TRADING AS ENLIGHT
 714,FOUNDRIES.IO LTD,https://foundries.io,Cambridge,George Grey,https://www.linkedin.com/in/georgegrey/,FOUNDRIES.IO LTD
 715,MARLIN PRIVATE STAFF,,London,Demos Demetriou,,MARLIN PRIVATE STAFF
 716,PLAN A,https://plana.earth,Berlin,Lubomila Jordanova,https://www.linkedin.com/in/ljordanova/,PLAN A
 717,PEEL,https://peelfoods.com/,London Borough of Tower Hamlets,Jacob Emil Opstrup,https://www.linkedin.com/in/jacob-emil-opstrup-00490531/,PEEL
 718,SCOODLE,https://www.www.scoodle.co.uk,London,Ismail Jeilani,https://www.linkedin.com/in/jeilani,SCOODLE
-719,INNOVATION WORLD LTD (TRADING AS NOVUM INSIGHTS),https://www.novuminsights.com,London,Toby Lewis,https://www.linkedin.com/in/toby-lewis-7aa5a533/,INNOVATION WORLD LTD (TRADING AS NOVUM INSIGHTS)
+719,INNOVATION WORLD LTD,https://www.novuminsights.com,London,Toby Lewis,https://www.linkedin.com/in/toby-lewis-7aa5a533/,INNOVATION WORLD LTD (TRADING AS NOVUM INSIGHTS)
 720,PITCHBOOKING LTD,https://pitchbooking.com,Craigavon,Fearghal Campbell,https://www.linkedin.com/in/fearghal-campbell-42333582/,PITCHBOOKING LTD
 721,MTL FINANCIAL LTD,https://www.creditdigital.co.uk,London,Daniel Lipinski,https://www.linkedin.com/in/daniel-lip/,MTL FINANCIAL LTD
 722,INNOVA HEALTH TECHNOLOGY LTD,http://innovahealthtech.co,Salford,Shoshana  Bloom,https://www.linkedin.com/in/sbloomconsulting/,INNOVA HEALTH TECHNOLOGY LTD
@@ -727,7 +727,7 @@ index,name,website,city,officer,officer_linkedin,note
 726,PIXION GAMES,https://pixiongames.com,London,Kam Punia,https://www.linkedin.com/in/karmveerpunia/,PIXION GAMES
 727,ACROCITY,,SF,Rachel Murray,,ACROCITY
 728,PASS THE KEYS,https://www.passthekeys.co.uk/,London,Alexander Lyakhotskiy,https://www.linkedin.com/in/alyakhotskiy/,PASS THE KEYS
-729,(IN IDEA STAGE),,London,Karan Aswani,,(IN IDEA STAGE)
+729,,,London,Karan Aswani,,(IN IDEA STAGE)
 730,IDEFIGO GROUP LIMITED,http://www.idefigo.com,Theale,Neil Boxer,https://www.linkedin.com/in/nboxer,IDEFIGO GROUP LIMITED
 731,ORI INDUSTRIES LIMITED,https://ori.co/,London,Mahdi Yahya,https://www.linkedin.com/in/mahdi-yahya-32922510/,ORI INDUSTRIES LIMITED
 732,TOOTLE,https://www.tootle.co.uk/,London,Charles Laughton,,TOOTLE
@@ -785,7 +785,7 @@ index,name,website,city,officer,officer_linkedin,note
 784,CAPITO SYSTEMS,http://www.capitosystems.com,Cambridge,Tony Ballardie,https://www.linkedin.com/in/tonyballardie/,CAPITO SYSTEMS
 785,BLOCKSURE HOLDINGS LIMITED,https://blocksure.com/,London,Ranvir Saggu,https://www.linkedin.com/in/ranvir-saggu-a2604528/,BLOCKSURE HOLDINGS LIMITED
 786,SECURITY CTRL,https://www.securityctrl.com,Edinburgh,Lukasz Mancewicz,https://www.linkedin.com/in/lukasz-mancewicz-9ba5296/,SECURITY CTRL
-787,THANKSBOX,https://www.thanksbox.co/,"WeWork, 41 Corsham Street",Luke Fisher,https://www.linkedin.com/in/lsfisher/,THANKSBOX
+787,THANKSBOX,https://www.thanksbox.co/,,Luke Fisher,https://www.linkedin.com/in/lsfisher/,THANKSBOX
 788,MOGEL,https://www.mogel.co,Cardiff,Gareth Tyler,https://www.linkedin.com/in/gareth-tyler-3031b410a/,MOGEL
 789,3D TECHNOLOGIES LTD,http://www.moasure.com,Warwick,Alan Rock,,3D TECHNOLOGIES LTD
 790,AUGNET,https://www.augnet.co.uk/,London,Daniel Gill,https://www.linkedin.com/in/daniel-gill-6a03a01/,AUGNET
@@ -817,7 +817,7 @@ index,name,website,city,officer,officer_linkedin,note
 816,OVERSTONE ASSOCIATES LIMITED,http://www.overstoneart.com ,London ,Fred Ursell,,OVERSTONE ASSOCIATES LIMITED
 817,RE-SEARCH,http://www.re-search.online,London,Juan Pablo Cerda,https://www.linkedin.com/in/juan-pablo-cerda-59992915/,RE-SEARCH
 818,REFUNDEASE,http://www.refundease.com,London,Felix Martinez,https://www.linkedin.com/in/felix-martinez-refundease/,REFUNDEASE
-819,SCEENIC (ORION TECHNOLOGIES LIMITED),http://www.sceenic.co,London,Paul Bojarski,https://www.linkedin.com/in/paulbojarski,SCEENIC (ORION TECHNOLOGIES LIMITED)
+819,ORION TECHNOLOGIES LIMITED,http://www.sceenic.co,London,Paul Bojarski,https://www.linkedin.com/in/paulbojarski,SCEENIC (ORION TECHNOLOGIES LIMITED)
 820,PLANIXS GRP LTD,,Manchester,Conor Parsons,https://www.linkedin.com/in/conor-parsons-351363134/,PLANIXS GRP LTD
 821,OPTIRAIL LIMITED,http://optirail.co.uk,York,Leonid Zhebrak,,OPTIRAIL LIMITED
 822,SPEECH ENGINEERING LIMITED,,London,Matthew Karas,https://www.linkedin.com/in/matthewkaras,SPEECH ENGINEERING LIMITED
@@ -848,11 +848,11 @@ index,name,website,city,officer,officer_linkedin,note
 847,ONEZERO-ME,,London,Yossi Borenstein,https://www.linkedin.com/in/yossi-borenstein-16b7331/,ONEZERO-ME
 848,L'EFFET,http://www.l-effet.com,London,Ulrike Pohl,https://www.linkedin.com/in/ulrike-pohl-10301b36/,L'EFFET
 849,HEALTH-CONNECTED LTD ,https://www.remindmecare.com,Teddington,Simon Hooper,https://www.linkedin.com/in/simonghooper/,HEALTH-CONNECTED LTD (2ND APPLICATION)
-850,EXPERT TRADES TRADING NAME OF I NEED AN EXPERT LTD,http://www.experttrades.com,Tamworth,Adam Callow,https://www.linkedin.com/in/adamcallow/,EXPERT TRADES TRADING NAME OF I NEED AN EXPERT LTD
+850,EXPERT TRADES LTD,http://www.experttrades.com,Tamworth,Adam Callow,https://www.linkedin.com/in/adamcallow/,EXPERT TRADES TRADING NAME OF I NEED AN EXPERT LTD
 851,SYNTHESIZED,http://synthesized.io/,London,Nicolai Baldin,https://www.linkedin.com/in/nbaldin/,SYNTHESIZED
 852,AGRIINSIGHT LIMITED ,https://agriinsight.com/,Cambridge,Charlotte Brown,https://www.linkedin.com/in/charlotte-brown-9432a856/,AGRIINSIGHT LIMITED (2ND APPLICATION)
 853,WONDE LTD,https://www.wonde.com/,Newmarket,Peter Dabrowa,https://www.linkedin.com/in/peterdabrowa/,WONDE LTD
-854,THE BIG VIDEO COMPANY LTD T/A EOOVI,https://www.eoovi.com,Edinburgh,Paul Gardiner,https://www.linkedin.com/in/eoovipaul/,THE BIG VIDEO COMPANY LTD T/A EOOVI
+854,THE BIG VIDEO COMPANY LTD,https://www.eoovi.com,Edinburgh,Paul Gardiner,https://www.linkedin.com/in/eoovipaul/,THE BIG VIDEO COMPANY LTD T/A EOOVI
 855,ADMEDO,,London,Nick Moutter,,ADMEDO
 856,LMX,http://www.londonmediaexchange.com,London,Dan Wilson,https://www.linkedin.com/in/wilsondan/,LMX
 857,UNDECIDED,,London,Lewis Gardner,https://www.linkedin.com/in/ljmgardner/,UNDECIDED
@@ -862,7 +862,7 @@ index,name,website,city,officer,officer_linkedin,note
 861,VIRTULEAP,https://www.virtuleap.com/,Lisbon,Amir Bozorgzadeh,https://www.linkedin.com/in/amirboz/,VIRTULEAP
 862,UNIPHY LTD,https://www.uniphy.global,Wootton Bassett,Achim Hoffmann,,UNIPHY LTD
 863,TIGGA COACHES,,Nairobi,Kelvin Kungu,,TIGGA COACHES
-864,SPECIAL BUSINESSES LIMITED T/A PRO SOFTWARE,https://prosoftwareuk.co.uk,Gateshead District,Neil McIntyre,https://www.linkedin.com/in/neilmcintyresb/,SPECIAL BUSINESSES LIMITED T/A PRO SOFTWARE
+864,SPECIAL BUSINESSES LIMITED,https://prosoftwareuk.co.uk,Gateshead District,Neil McIntyre,https://www.linkedin.com/in/neilmcintyresb/,SPECIAL BUSINESSES LIMITED T/A PRO SOFTWARE
 865,VIDEONA SOCIALMEDIA S.L.,http://www.videona.com,Las Rozas,Iago Fernández-Cedrón,https://www.linkedin.com/in/iagofcfm/,VIDEONA SOCIALMEDIA S.L.
 866,UNIFIEDVU,http://www.unified.vu,Manchester,Manoj Ranaweera,https://www.linkedin.com/in/manojranaweera/,UNIFIEDVU
 867,DRAPER & DASH LIMITED,http://draperanddash.com/,London,Eddie Harding,https://www.linkedin.com/in/eddie-harding-6b1b2/,DRAPER & DASH LIMITED
@@ -884,7 +884,7 @@ index,name,website,city,officer,officer_linkedin,note
 883,VZZR.IO,https://www.vzzr.io,Salford,Matt Wunderli,https://www.linkedin.com/in/matt-wunderli-bb78bb31/,VZZR.IO
 884,PROSPER SYSTEMS LIMITED,https://prosperbi.com,London,George Davis,https://www.linkedin.com/in/georgedavismd,PROSPER SYSTEMS LIMITED
 885,KINDLINK,https://www.kindlink.com/,London,Iskren Kulev,https://www.linkedin.com/in/iskrenkulev/,KINDLINK
-886,INSTASTOCK LIMITED T/A PIXEY,https://www.pixey.io/,Edinburgh,Sarah Stenhouse,https://www.linkedin.com/in/sarahstenhouse/,INSTASTOCK LIMITED T/A PIXEY
+886,INSTASTOCK LIMITED,https://www.pixey.io/,Edinburgh,Sarah Stenhouse,https://www.linkedin.com/in/sarahstenhouse/,INSTASTOCK LIMITED T/A PIXEY
 887,GWEEK (UK) LIMITED,https://gweekspeech.com,London,James Bryce,https://www.linkedin.com/in/james-b-55b038b/,GWEEK (UK) LIMITED
 888,SELDON TECHNOLOGIES LTD ,https://www.seldon.io,London,Alex Housley,https://www.linkedin.com/in/alexhousley,SELDON TECHNOLOGIES LTD (2ND APPLICATION)
 889,VERATRAK ,https://www.veratrak.com,Oxford,Jason Lacombe,https://www.linkedin.com/in/jason-lacombe-2181a9102/,VERATRAK (2ND APPLICATION)
@@ -916,12 +916,12 @@ index,name,website,city,officer,officer_linkedin,note
 915,CORROSION RADAR LIMITED,http://www.corrosionradar.com/,Cambridge,Chiraz Ennaceur,,CORROSION RADAR LIMITED
 916,LIRICA,http://lirica.co.uk/,London,Duncan Grierson,https://www.linkedin.com/in/duncan-grierson-20391/,LIRICA
 917,GOODLORD,https://www.goodlord.co,London,Tom Mundy,https://www.linkedin.com/in/mundytom/,GOODLORD
-918,IN-PART PUBLISHING LTD - TRADING AS IN-PART,https://in-part.com/,Sheffield,Patrick  Speedie,https://www.linkedin.com/in/patrick-speedie-97aa3519/,IN-PART PUBLISHING LTD - TRADING AS IN-PART
-919,"""METACORTEX""",http://www.metacortexai.com,London,Dean Garlick,https://www.linkedin.com/in/dean-garlick-5006397a/,"""METACORTEX"""
+918,IN-PART PUBLISHING LTD,https://in-part.com/,Sheffield,Patrick  Speedie,https://www.linkedin.com/in/patrick-speedie-97aa3519/,IN-PART PUBLISHING LTD - TRADING AS IN-PART
+919,METACORTEX,http://www.metacortexai.com,London,Dean Garlick,https://www.linkedin.com/in/dean-garlick-5006397a/,"""METACORTEX"""
 920,MYFUTUREMOT.CO.UK,http://www.MyFutureMot.co.uk,Bristol,Shaban  Ali,,MYFUTUREMOT.CO.UK
 921,WEAVER TECH LIMITED,https://www.weaver.london,London,Greg Keane,https://www.linkedin.com/in/greg-keane-2058079,WEAVER TECH LIMITED
 922,THE HOOK GROUP,http://www.thehookgroup.co.uk,London,Andrew Fidler,https://www.linkedin.com/in/andyfidler/,THE HOOK GROUP
-923,THE KAIROS COLLECTIVE,https://thekairoscollective.com/,"London, England, United Kingdom",Tanya Southworth,https://www.linkedin.com/in/tanyasouthworth/,THE KAIROS COLLECTIVE
+923,THE KAIROS COLLECTIVE,https://thekairoscollective.com/,London,Tanya Southworth,https://www.linkedin.com/in/tanyasouthworth/,THE KAIROS COLLECTIVE
 924,BORROWMYDOGGY,https://www.borrowmydoggy.com/,London,Rikke  Rosenlund,https://www.linkedin.com/in/rikkerosenlund,BORROWMYDOGGY
 925,DISTRIBUTED MANAGEMENT SYSTEMS LTD,https://www.casque.co.uk,Blackburn,Basil Philipsz,https://www.linkedin.com/in/basilphilipsz/,DISTRIBUTED MANAGEMENT SYSTEMS LTD
 926,APTLINK LTD,https://aptlink.io,London,Tinashe Chiwehse,https://www.linkedin.com/in/tinashegchiweshe/,APTLINK LTD
@@ -954,14 +954,14 @@ index,name,website,city,officer,officer_linkedin,note
 953,RENTAWARE,,London,Justin Shulman,https://www.linkedin.com/in/justinshulman/,RENTAWARE
 954,HAGGLA LIMITED,,Caerphilly,Natasha J  Gordon,https://www.linkedin.com/in/haggla-natashajgordon,HAGGLA LIMITED
 955,AGILE ANALOG LTD ,http://www.agileanalog.com,Cambridge,Tim Ramsdale,https://www.linkedin.com/in/tramsdale,AGILE ANALOG LTD (2ND APPLICATION)
-956,SAVERD LTD (TRADING AS BEAN),https://usebean.com,London,Peter Myatt,https://www.linkedin.com/in/petermyatt/,SAVERD LTD (TRADING AS BEAN)
+956,SAVERD LTD,https://usebean.com,London,Peter Myatt,https://www.linkedin.com/in/petermyatt/,SAVERD LTD (TRADING AS BEAN)
 957,DATAGIVES,http://datagives.org,London,Mark Founder and CEO,https://www.linkedin.com/in/markdmlittle/,DATAGIVES
 958,YEAST BERLIN LTD,http://adventureswithbeer.com/,Manchester,Jonny Quirk,https://www.linkedin.com/in/jonnyquirk/,YEAST BERLIN LTD
 959,FILTERED TECHNOLOGIES LIMITED,https://filtered.com,London,Vinit Patel,https://www.linkedin.com/in/vinitrpatel/,FILTERED TECHNOLOGIES LIMITED
-960,PSE (PRIME SHARES ESTATE),https://www.primesharesestate.co.uk/,London,Arjun Dublish,https://www.linkedin.com/in/arjundublish/,PSE (PRIME SHARES ESTATE)
-961,ELEARNING STUDIOS (ELS),http://www.vrlearning.studio,Coventry,Nitin Thakrar,https://www.linkedin.com/in/nitinthakrar/,ELEARNING STUDIOS (ELS)
+960,PRIME SHARES ESTATE,https://www.primesharesestate.co.uk/,London,Arjun Dublish,https://www.linkedin.com/in/arjundublish/,PSE (PRIME SHARES ESTATE)
+961,ELEARNING STUDIOS,http://www.vrlearning.studio,Coventry,Nitin Thakrar,https://www.linkedin.com/in/nitinthakrar/,ELEARNING STUDIOS (ELS)
 962,REVGLUE,https://www.revglue.com,Manchester,Adeel Farooq,https://www.linkedin.com/in/adeelfarooq/,REVGLUE
-963,GETPAID,https://getpaid.finance,London Borough of Hammersmith and Fulham,Alejandro Brega,https://www.linkedin.com/in/abrega,GETPAID
+963,GETPAID,https://getpaid.finance,London,Alejandro Brega,https://www.linkedin.com/in/abrega,GETPAID
 964,EEDI,https://eedi.co.uk,London,Ben Caulfield,https://www.linkedin.com/in/bencaulfield/,EEDI
 965,AR IMAGING,https://www.arimaging.com,Cleveland,Michael Riemer,https://www.linkedin.com/in/mobilemiker/,AR IMAGING
 966,LEMTEC,,London,Dimitri Lemos,https://www.linkedin.com/in/dimitri-lemos-18b40721/,LEMTEC
@@ -1016,7 +1016,7 @@ index,name,website,city,officer,officer_linkedin,note
 1015,DEVIKA WOOD,http://www.vida.co.uk,London,Devika  Wood,https://www.linkedin.com/in/devikawood/,DEVIKA WOOD
 1016,HENTSU,https://hentsu.com/,London,Simon Bichara,https://www.linkedin.com/in/simon-bichara/,HENTSU
 1017,HODGSON HEALTH,https://www.hodgsonhealth.com,Liverpool,Ryan Hodgson,https://www.linkedin.com/in/ryanhodgsonfitness,HODGSON HEALTH
-1018,FLEXCLUB (REGISTERED AS FLEXIIDRIVE B.V.),,Amsterdam,Tinashe Ruzane,,FLEXCLUB (REGISTERED AS FLEXIIDRIVE B.V.)
+1018,FLEXCLUB ,,Amsterdam,Tinashe Ruzane,,FLEXCLUB (REGISTERED AS FLEXIIDRIVE B.V.)
 1019,TRUE GREEN TECHNOLOGIES,,Salford District,Kefing Collins,https://www.linkedin.com/in/kefing-collins-02563915b,TRUE GREEN TECHNOLOGIES
 1020,QSTORY LTD,https://qstory.co.uk,Guildford,Patrick Coleman,https://www.linkedin.com/in/paddycoleman,QSTORY LTD
 1021,BLUEBIRD EXCHANGE,http://bluebirdsnowexchange.com,London,Stephen Cousins,https://www.linkedin.com/in/stephen-cousins-3a3532bb/,BLUEBIRD EXCHANGE
@@ -1026,7 +1026,7 @@ index,name,website,city,officer,officer_linkedin,note
 1025,JAMES BARNES,,Birmingham,James Barnes,https://www.linkedin.com/in/james-barnes-06791621/,JAMES BARNES
 1026,LEXOO,https://www.lexoo.co.uk,London,Daniel van Binsbergen,https://www.linkedin.com/in/dvbins/,LEXOO
 1027,EVENTSCASE,https://www.eventscase.com,London,JOSE MIGUEL BORT MONDRAGON,https://www.linkedin.com/in/josebort/,EVENTSCASE
-1028,YOUMEBE LIMITED T/A DIRECTPRINT.IO,https://directprint.io,Cardiff,DAVID JENKINS,https://www.linkedin.com/in/davidrejenkins/,YOUMEBE LIMITED T/A DIRECTPRINT.IO
+1028,YOUMEBE LIMITED,https://directprint.io,Cardiff,DAVID JENKINS,https://www.linkedin.com/in/davidrejenkins/,YOUMEBE LIMITED T/A DIRECTPRINT.IO
 1029,ZEROCOPY,https://zerocopy.be/,Brussels,Maxime Carpentier,https://www.linkedin.com/in/maxime-carpentier-60a83017/,ZEROCOPY
 1030,GARANTIER LIMITED,http://www.garantier.co.uk,Birmingham,Andrew Mills,,GARANTIER LIMITED
 1031,REPOSITIVE ,http://repositive.io,Cambridge,Fiona Nielsen,https://www.linkedin.com/in/fionanielsen/,REPOSITIVE (2ND APPLICATION)
@@ -1062,8 +1062,8 @@ index,name,website,city,officer,officer_linkedin,note
 1061,CEREBRUM MATTER,https://cerebrummatter.com/,Loughborough,kartheka bojan,https://www.linkedin.com/in/kartheka-bojan-64314728/,CEREBRUM MATTER
 1062,VALERANN ,https://www.valerann.com/,London,Gabriel Jacobson,https://www.linkedin.com/in/gabrieljacobson/,VALERANN (2ND APPLICATION)
 1063,POPTOPUK LIMITED,https://www.poptop.uk.com,Newcastle upon Tyne,Eugene Shestopal,https://www.linkedin.com/in/eugene-shestopal-66785438/,POPTOPUK LIMITED
-1064,BUILDAS FIXAS LIMITED (FIXAS),https://fixas.co.uk,London,Styliana Vasili,,BUILDAS FIXAS LIMITED (FIXAS)
-1065,PENATI LTD TRADING AS TREASURE HOUSE,http://www.treasurehouse.com,London,Philip McGrath,n/a,PENATI LTD TRADING AS TREASURE HOUSE
+1064,BUILDAS FIXAS LIMITED,https://fixas.co.uk,London,Styliana Vasili,,BUILDAS FIXAS LIMITED (FIXAS)
+1065,PENATI LTD,http://www.treasurehouse.com,London,Philip McGrath,n/a,PENATI LTD TRADING AS TREASURE HOUSE
 1066,BREEZYAPP LTD,https://www.breezyapp.co.uk,London,Ashley Grimmer,https://www.linkedin.com/in/ashley-grimmer-265535107/,BREEZYAPP LTD
 1067,BEELINE,https://beeline.co/,London,Mark Jenner,https://www.linkedin.com/in/mark-jenner-044b0bb,BEELINE
 1068,KOMPAS ,https://www.kompasapp.com,London,Tom Charman,https://www.linkedin.com/in/tcharman/,KOMPAS (2ND APPLICATION)
@@ -1102,7 +1102,7 @@ index,name,website,city,officer,officer_linkedin,note
 1101,SHAREIN LTD,https://www.sharein.com,Edinburgh,Jude Cook,www.linkedin.com/in/jude-cook,SHAREIN LTD
 1102,DAWN AUDIO,,Yeovil,Terry Gould,,DAWN AUDIO
 1103,ELUCIDAT LTD.,https://www.elucidat.com,Brighton,Steve Penfold,http://linkedin.com/in/stevepenfold,ELUCIDAT LTD.
-1104,HAPPY MUMMY HAPPY BABY LTD T/A MOMENT HEALTH,https://www.momentheatlh.io,Belfast,Nuala  Murphy,https://www.linkedin.com/in/nualafmurphy/,HAPPY MUMMY HAPPY BABY LTD T/A MOMENT HEALTH
+1104,HAPPY MUMMY HAPPY BABY LTD,https://www.momentheatlh.io,Belfast,Nuala  Murphy,https://www.linkedin.com/in/nualafmurphy/,HAPPY MUMMY HAPPY BABY LTD T/A MOMENT HEALTH
 1105,ADAM BENZECRIT,https://www.inflo.ai/,London,Adam Benzecrit,https://uk.linkedin.com/in/adam-benzecrit-743b4a78,ADAM BENZECRIT
 1106,KEYMAT,,Consett,Keiron Young,,KEYMAT
 1107,KINDABA LIMITED ,https://kindaba.com,Edinburgh,Robert Gelb,https://www.linkedin.com/in/robgelb/,KINDABA LIMITED (2ND APPLICATION)
@@ -1158,7 +1158,7 @@ index,name,website,city,officer,officer_linkedin,note
 1157,QDOOZ,www.qdooz.com,London,Marc Duke,https://www.linkedin.com/in/marcduke/,QDOOZ
 1158,CATAPULT,https://www.joincatapult.com/,London,Oli Johnson,https://www.linkedin.com/in/olihjohnson/,CATAPULT
 1159,TAPES LIMITED,,Birmingham,Carla  Browne,,TAPES LIMITED
-1160,MURGE LIMITED,https://invis.io/JAGNDL8Z8NQ#/292907954_MURGE_HOME,"One Canada Water, Level 39, London, UK",Davide Vece,www.linkedin.com/in/davide-vece-98731291,MURGE LIMITED
+1160,MURGE LIMITED,https://invis.io/JAGNDL8Z8NQ#/292907954_MURGE_HOME,London,Davide Vece,www.linkedin.com/in/davide-vece-98731291,MURGE LIMITED
 1161,AGRIINSIGHT LIMITED,https://agriinsight.com/,Cambridge,Charlotte Brown,https://www.linkedin.com/in/charlotte-brown-9432a856/,AGRIINSIGHT LIMITED
 1162,FUNDAMENTALVR,www.fundamentalvr.com & www.fundamentalsurgery.com,London,Richard Vincent ,https://www.linkedin.com/in/ravincent/,FUNDAMENTALVR
 1163,THISTHAT,www.thisthatapp.com,Edinburgh,Dominic Ivison,https://www.linkedin.com/in/dominic-ivison/,THISTHAT
@@ -1188,7 +1188,7 @@ index,name,website,city,officer,officer_linkedin,note
 1187,"BINARY BUBBLES, INC.",http://www.binarybubblesinc.com,"Burbank, CA",Lisa Wong,https://www.linkedin.com/in/lisa-wong-02b932/,"BINARY BUBBLES, INC."
 1188,CROISSANT,https://www.getcroissant.com/,NYC,Dave Idell,https://www.linkedin.com/in/daveidell/,CROISSANT
 1189,YNDICA,http://yndica.com/,London,Giovanni Roberto Franzan,https://www.linkedin.com/in/giovanni-roberto-franzan-26b7158a/,YNDICA
-1190,EPATIENT NETWORK LTD,https://raremark.com/,London (HQ) + Boston,Julie Walters,https://www.linkedin.com/in/waltersjulie/,EPATIENT NETWORK LTD
+1190,EPATIENT NETWORK LTD,https://raremark.com/,London and Boston,Julie Walters,https://www.linkedin.com/in/waltersjulie/,EPATIENT NETWORK LTD
 1191,SURVEY54,privatebeta.survey54.com,London,Stephan Eyeson,https://www.linkedin.com/in/stephan-eyeson-748b551a/,SURVEY54
 1192,HEADLIGHT AI LIMITED,www.headlight.ai,London,Jameel Marafie,www.linkedin.com/in/jameel-marafie-10694831/,HEADLIGHT AI LIMITED
 1193,LESALON,https://lesalon.com/,London,Jean-Michel Chalayer,https://www.linkedin.com/in/jeanmichelc/,LESALON
@@ -1203,7 +1203,7 @@ index,name,website,city,officer,officer_linkedin,note
 1202,PAD,pad.co.uk,London,Christopher,https://www.linkedin.com/in/christophergareth/,PAD
 1203,PAPERCUP,Papercup.ai,London,Jesse Shemen,https://www.linkedin.com/in/jesseshemen/,PAPERCUP
 1204,CLOUDMATIQ LTD.,http://www.cloudmatiq.com,London,Nambi Jannagthan,N/A,CLOUDMATIQ LTD.
-1205,SPORT VISION SYSTEMS LTD. (GOAL SCANNER),www.goal-scanner.com,Bristol,Roger Clark,https://www.linkedin.com/in/rogerclark1/,SPORT VISION SYSTEMS LTD. (GOAL SCANNER)
+1205,SPORT VISION SYSTEMS LTD.,www.goal-scanner.com,Bristol,Roger Clark,https://www.linkedin.com/in/rogerclark1/,SPORT VISION SYSTEMS LTD. (GOAL SCANNER)
 1206,DENT REALITY,https://www.dentreality.com,London,Andrew Hart,N/A,DENT REALITY
 1207,SPOTTITT LTD.,www.spottitt.com,Harwell,Marcello Deplano,https://www.linkedin.com/in/marcellodeplano/,SPOTTITT LTD.
 1208,JAMTAG,https://jamtag.co,London,Far Sawar,https://www.linkedin.com/in/far-sawar-5a6b8850,JAMTAG
@@ -1213,7 +1213,7 @@ index,name,website,city,officer,officer_linkedin,note
 1212,FASHION KANVAS,www.fashionkanvas.com,Harrow,Samraj Dhillon,https://www.linkedin.com/in/samraj-dhillon-4183aa52/,FASHION KANVAS
 1213,BIOTECHSPERT,www.biotechspert.com,"Cambridge, UK",David Holden-White,https://www.linkedin.com/in/davidholdenwhite,BIOTECHSPERT
 1214,XORLAB AG,xorlab.com,Zurich,Adrian Kyburz,https://www.linkedin.com/in/adriankyburz/,XORLAB AG
-1215,FITAR LIMITED (TRADING AS FITXR),www.FitXR.com,London,Sam Cole,https://uk.linkedin.com/in/scscole,FITAR LIMITED (TRADING AS FITXR)
+1215,FITAR LIMITED,www.FitXR.com,London,Sam Cole,https://uk.linkedin.com/in/scscole,FITAR LIMITED (TRADING AS FITXR)
 1216,INKONOVA AB,www.inkonova.se,Stockholm,Ahmed AlNomany,https://www.linkedin.com/in/ahmedalnomany/,INKONOVA AB
 1217,ICARUSPARTS.COM LTD,www.icarusparts.com,Birmingham ,Joe Kibbler,https://www.linkedin.com/in/joe-kibbler-27813a3b/,ICARUSPARTS.COM LTD
 1218,THE DREAM CORPORATION,http://www.otherworld.london,London,Chris Adams,http://linkedin.com/in/christopherfraseradams/,THE DREAM CORPORATION
@@ -1245,7 +1245,7 @@ index,name,website,city,officer,officer_linkedin,note
 1244,TONA,www.tona.fit,London,George Burton,www.linkedin.com/in/george-burton/,TONA
 1245,JUST MOVE IN,www.justmovein.co,"Bournemouth, Dorset",Ross Nichols,https://www.linkedin.com/in/rossnicholsuk/,JUST MOVE IN
 1246,THE COOK-IN COMPANY LIMITED,www.getmucho.com,London,Shanshan Xu,https://www.linkedin.com/in/xushanshan/,THE COOK-IN COMPANY LIMITED
-1247,ATLAS,https://atlasdemo.on-thespot.com/index.php,Milan (moving to London soon),Aaron Villegas,https://www.linkedin.com/in/aaron-villegas-774924118/,ATLAS
+1247,ATLAS,https://atlasdemo.on-thespot.com/index.php,Milan / London,Aaron Villegas,https://www.linkedin.com/in/aaron-villegas-774924118/,ATLAS
 1248,HIYACAR,www.hiyacar.co.uk,London,Philip Makinson,https://www.linkedin.com/in/phil-makinson-9867b7/,HIYACAR
 1249,VICA CUSTOM,www.vicacustom.com,London,Viktorija Chileviciute,n/a,VICA CUSTOM
 1250,MODERN DEMOCRACY LTD,www.moderndemocracy.com,Derry / Londonderry,Robert (Roy) Devine,Roy Devine,MODERN DEMOCRACY LTD
@@ -1265,23 +1265,23 @@ index,name,website,city,officer,officer_linkedin,note
 1264,PASSFORT LIMITED ,https://passfort.com,London,Donald Gillies,https://www.linkedin.com/in/donaldandrewgillies/,PASSFORT LIMITED (2ND APPLICATION)
 1265,ALPHA-I,https://www.alpha-i.co,London,Giacomo Mariotti,https://www.linkedin.com/in/giacomo-mariotti-82b9bb80/,ALPHA-I
 1266,DOCHAT,http://aboutus.dochat.co/,London,Michael Oszmann,https://www.linkedin.com/in/michaeloszmann/,DOCHAT
-1267,DS TABB DRINK LTD,https://tabbdrink.com/,Manchester (operating across the UK),Daniel Sandler,https://www.linkedin.com/in/dan-sandler-b3342559/,DS TABB DRINK LTD
+1267,DS TABB DRINK LTD,https://tabbdrink.com/,Manchester,Daniel Sandler,https://www.linkedin.com/in/dan-sandler-b3342559/,DS TABB DRINK LTD
 1268,JUMP.WORK,www.jump.work,London,Marja Verbon,linkedin.com/in/marjaverbon,JUMP.WORK
 1269,MYUNII,http://myuni.org.uk/,London,Bernard Sisay,https://www.linkedin.com/in/bernard-sisay-21b392141/,MYUNII
 1270,BESTSHOT,bestshot.co,"Stockholm, Sweden",Dragos Novac,http://dragosnovac.com,BESTSHOT
 1271,GOWER STREET ANALYTICS,https://gower.st/,London,Dimitrios Mitsinikos,https://www.linkedin.com/in/dimitrios-mitsinikos/,GOWER STREET ANALYTICS
-1272,AXIAL3D ( INCORP AXIAL MEDICAL PRINTING LIMITED),www.axial3d.com,Belfast,Daniel Alexander Crawford ,https://www.linkedin.com/in/daniel-crawford-6b9b6559/,AXIAL3D ( INCORP AXIAL MEDICAL PRINTING LIMITED)
+1272,AXIAL MEDICAL PRINTING LIMITED,www.axial3d.com,Belfast,Daniel Alexander Crawford ,https://www.linkedin.com/in/daniel-crawford-6b9b6559/,AXIAL3D ( INCORP AXIAL MEDICAL PRINTING LIMITED)
 1273,HELIX PRO,https://helixpro.org,Cambridge ,Viren Aul,https://www.linkedin.com/in/virenaul/,HELIX PRO
 1274,ALGOLIB LTD,https://www.algolib.com/,London,Lewis James,https://www.linkedin.com/in/lewisjames1/,ALGOLIB LTD
 1275,LINK BIG,http://link-big.com/,Birmingham,Nadav Raviv,https://www.linkedin.com/in/nadavraviv/,LINK BIG
 1276,TUTOR IN LIMITED,twosigmas.com,Cambridge,Michael Birdsall,https://www.linkedin.com/in/michaelbirdsall/,TUTOR IN LIMITED
 1277,WARDEN,https://warden.co,London,Amadeo Pellicce,https://www.linkedin.com/in/amadeopellicce/,WARDEN
 1278,WARWICK AUDIO TECHNOLOGIES LTD,www.warwickaudiotech.com,Nuneaton,Mike Grant,https://www.linkedin.com/in/drmikegrant/,WARWICK AUDIO TECHNOLOGIES LTD
-1279,STRATEGIC KM LTD. T/A SPOTLIGHT DATA,http://spotlightdata.co.uk,Nottingham,Tim Venison,https://www.linkedin.com/in/tim-venison/,STRATEGIC KM LTD. T/A SPOTLIGHT DATA
+1279,STRATEGIC KM LTD.,http://spotlightdata.co.uk,Nottingham,Tim Venison,https://www.linkedin.com/in/tim-venison/,STRATEGIC KM LTD. T/A SPOTLIGHT DATA
 1280,WORKCOMPASS,www.workcompass.com,"Cork, Ireland",Denis Coleman,https://ie.linkedin.com/in/denis-coleman-735a6261,WORKCOMPASS
 1281,360STORIES,www.360stories.com,"New York, NY, US",Albert Poghosyan,https://www.linkedin.com/in/albertpoghosyan/,360STORIES
 1282,TRAYDSTREAM LIMITED ,www.traydstream.com,London,Uzair Bawany,https://www.linkedin.com/in/uzairbawany/,TRAYDSTREAM LIMITED (2ND APPLICATION)
-1283,ONLIU,www.onliu.com,USA Boston and UK Worcester,John Pitt,https://www.linkedin.com/in/john-pitt-35009878?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQkRuSb7aSF6GWC%2FE5ZEDWA%3D%3D,ONLIU
+1283,ONLIU,www.onliu.com,Boston and Worcester,John Pitt,https://www.linkedin.com/in/john-pitt-35009878?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQkRuSb7aSF6GWC%2FE5ZEDWA%3D%3D,ONLIU
 1284,LOCALDIPITY,www.localdipity.com,"Atlanta, GA",Howard Page,https://www.linkedin.com/in/howard-page-a2026b1/,LOCALDIPITY
 1285,SHELFTAUGHT,https://shelftaught.com/,London,Duncan Garde,https://www.linkedin.com/in/duncangarde/,SHELFTAUGHT
 1286,TRUE AI,www.trueai.io,London,Pyry Takala,https://uk.linkedin.com/in/pyry-takala-37b4a915,TRUE AI
@@ -1294,29 +1294,29 @@ index,name,website,city,officer,officer_linkedin,note
 1293,THE FOOD DETECTIVE,https://thefooddetective-front.staging.devguru.co/,Geneva,Andrea Tassistro,https://www.linkedin.com/in/andrea-tassistro-73792080/,THE FOOD DETECTIVE
 1294,HIPPONIX LIMITED,www.hipponix.com,"Cambridge, UK",David Wilson,https://www.linkedin.com/in/david-wilson-3196678b/,HIPPONIX LIMITED
 1295,PROTECTBOX,https://www.protectbox.com,"Belfast, London",Miss Kiran Bhagotra,https://uk.linkedin.com/in/kiran-bhagotra-9a9455137,PROTECTBOX
-1296,SURECERT (CDS NEW VENTURES LIMITED),www.surecert.com,Belfast,Ian Savage,www.linkedin.com/in/isavage-surecert,SURECERT (CDS NEW VENTURES LIMITED)
+1296,SURECERT,www.surecert.com,Belfast,Ian Savage,www.linkedin.com/in/isavage-surecert,SURECERT (CDS NEW VENTURES LIMITED)
 1297,INNOSEC LTD,www.innosec.com,Hod HaSharon,Ariel Evans,https://www.linkedin.com/in/marielevans/,INNOSEC LTD
-1298,PATIENTS KNOW BEST LIMITED,www.patientsknowbest.com,"we are a virtualised team like ADV, with founders based in Cambridge, UK",Ian Bastow,https://www.linkedin.com/in/ianbastow/,PATIENTS KNOW BEST LIMITED
+1298,PATIENTS KNOW BEST LIMITED,www.patientsknowbest.com,"Cambridge, UK",Ian Bastow,https://www.linkedin.com/in/ianbastow/,PATIENTS KNOW BEST LIMITED
 1299,KRAYDEL LTD,www.kraydel.com,Belfast,Paul Moorhead,https://www.linkedin.com/in/paulmoorhead/,KRAYDEL LTD
 1300,HYFIN TECHNOLOGIES LIMITED,www.hyfin.com,London,Alexander Edward Kelvin VANDERLIP,linkedin.com/in/alexvanderlip,HYFIN TECHNOLOGIES LIMITED
 1301,LOVE2MOVE,https://www.love2move.co.uk/,Preston,Mark Worrall,https://www.linkedin.com/in/mark-worrall-811ab823/,LOVE2MOVE
 1302,THE UNIBOX,theunibox.com,London,Daphnee Hocquard,https://www.linkedin.com/in/daphnée-hocquard-82878b44/,THE UNIBOX
 1303,BE MORE DIGITAL,http://sensingfeeling.com,London,Jag Minhas,https://www.linkedin.com/in/jagminhas/,BE MORE DIGITAL
 1304,INAVYA VENTURES,www.avatr.ai,London,Aymeric Teulon,https://www.linkedin.com/in/aymeric-teulon-6ba8b71/,INAVYA VENTURES
-1305,#3D.IM,http://3d.im,London / Singapore / Tokyo,Luis Ramirez,https://www.linkedin.com/in/luis3dim/,#3D.IM
+1305,3D.IM,http://3d.im,London / Singapore / Tokyo,Luis Ramirez,https://www.linkedin.com/in/luis3dim/,#3D.IM
 1306,BIONIC,WEAREBIONIC.COM,Dublin,Patrick Dawson,https://www.linkedin.com/in/patrickmdawson/ ,BIONIC
 1307,BIOBEATS,http://biobeats.com,London,David Plans,https://www.linkedin.com/in/davidplans/,BIOBEATS
 1308,AI BUILD ,www.ai-build.com,London,Daghan Cam,https://www.linkedin.com/in/daghan-cam-11490629/,AI BUILD (2ND APPLICATION)
 1309,RENTERS UNION,www.rentersunion.co.uk,London,Faisal Khalid,http://uk.linkedin.com/in/faisalkhalid,RENTERS UNION
 1310,NEWO,www.newo.pk,Karachi,Zardar Waseem,https://www.linkedin.com/in/zardar-waseem-444a7810/,NEWO
 1311,GLOBEX SCI,http://globexsci.io,Larnaka,Artem Finko,https://www.linkedin.com/mynetwork/,GLOBEX SCI
-1312,THE LIST LTD/ THEDATA.IO,https://thedata.io/,Edinburgh,Brendan Miles,https://www.linkedin.com/in/brendanjmiles/,THE LIST LTD/ THEDATA.IO
+1312,THE LIST LTD,https://thedata.io/,Edinburgh,Brendan Miles,https://www.linkedin.com/in/brendanjmiles/,THE LIST LTD/ THEDATA.IO
 1313,PAX REPUBLIC,paxrepublic.com csight.io,London,Barbara Sharp,https://www.linkedin.com/in/barbara-sharp-17327015/,PAX REPUBLIC
 1314,HEALX,,,Tim Guilliams,https://www.linkedin.com/in/tim-guilliams-062b977/,HEALX
 1315,SPOTSENSORS LTD,http://www.spotsen.se/,Edinburgh,Paolo Di Prodi,https://www.linkedin.com/in/dr-paolo-di-prodi-4669565/,SPOTSENSORS LTD
 1316,COL8 LTD,www.col8.net,Bristol,Charles Smith,https://www.linkedin.com/in/charleswilliamowensmith/,COL8 LTD
 1317,VWCP LTD,www.vagcarsandparts.com,South molton ,Jamie west,http://linkedin.com/in/jamie-west-ceo,VWCP LTD
-1318,TOAD (THE OUTDOOR ADVERTISING DIRECTORY),http://toad.ai,London,George Hintzen,https://www.linkedin.com/in/georgehintzen,TOAD (THE OUTDOOR ADVERTISING DIRECTORY)
+1318,THE OUTDOOR ADVERTISING DIRECTORY,http://toad.ai,London,George Hintzen,https://www.linkedin.com/in/georgehintzen,TOAD (THE OUTDOOR ADVERTISING DIRECTORY)
 1319,SENSUM,www.sensum.co,Belfast,Shane McCourt,https://www.linkedin.com/in/shanemccourt/,SENSUM
 1320,MEL SCIENCE,https://melscience.com/,London,Vassili Philippov,https://www.linkedin.com/in/vassiliphilippov/,MEL SCIENCE
 1321,FORMPOP,www.formpop.co.uk,Petersfield/London/Sheffield,Matthew Twist,https://www.linkedin.com/in/matthewtwist/,FORMPOP
@@ -1327,13 +1327,13 @@ index,name,website,city,officer,officer_linkedin,note
 1326,HEALTH-CONNECTED LTD,www.remindmecare.com,London,Simon Glass Hooper,https://techcrunch.com/2017/05/23/cera-is-building-an-ai-for-social-care-decision-support/,HEALTH-CONNECTED LTD
 1327,MOTORMOUTH MEDIA,www.motormouth.club,London,Tim Silvey,https://www.linkedin.com/in/silveysports/,MOTORMOUTH MEDIA
 1328,FREGNAN LIMITED,www.Fregnan.com,London,Vincent Guy Julier,www.linkedin.com/in/vince-julier-043579,FREGNAN LIMITED
-1329,FINPOINT LIMITED,www.finpoint.co.uk,"539 Linen Hall, 162-168 Regent Street, london W1B 5TD",rainer plentl,https://www.linkedin.com/in/rainer-plentl-45831590/,FINPOINT LIMITED
+1329,FINPOINT LIMITED,www.finpoint.co.uk,London,rainer plentl,https://www.linkedin.com/in/rainer-plentl-45831590/,FINPOINT LIMITED
 1330,BRAINDRAIN SOLUTIONS LTD,gideon.ai,London,Michele Galli,https://www.linkedin.com/in/ingmichelegalli/,BRAINDRAIN SOLUTIONS LTD
 1331,DREAM MEDIA VSB,https://www.linkedin.com/in/dvandome/,Preston,David Vandome,https://www.linkedin.com/in/dvandome/,DREAM MEDIA VSB
-1332,JAFA (JUST A FAN'S ANALYSIS),www.jafa.co.uk,Milton Keynes/London,Dan Bedi,https://www.linkedin.com/in/dan-bedi-b123263a/,JAFA (JUST A FAN'S ANALYSIS)
+1332,JUST A FAN'S ANALYSIS,www.jafa.co.uk,Milton Keynes/London,Dan Bedi,https://www.linkedin.com/in/dan-bedi-b123263a/,JAFA (JUST A FAN'S ANALYSIS)
 1333,EVIFILE LIMITED,www.evifile.com or  http://ids-group.co.uk/products/evifile/,Leeds,Nick Halliday,https://www.linkedin.com/in/nick-halliday-874b8214/,EVIFILE LIMITED
 1334,CURRIKULA,https://www.currikula.com,London,Sam Loyd,https://www.linkedin.com/in/samloyd/,CURRIKULA
-1335,CASSPEAT,http://www.casspeat.com,moving from Germany to UK,Peter Béndek,https://www.linkedin.com/in/peterbendekdr/,CASSPEAT
+1335,CASSPEAT,http://www.casspeat.com,,Peter Béndek,https://www.linkedin.com/in/peterbendekdr/,CASSPEAT
 1336,MUEBOX,www.muebox.com ,Basingstoke ,Dean Lewis Bryan,www.linkedin.com/in/dean-bryan-muebox,MUEBOX
 1337,BIDVINE LTD,www.bidvine.com,London,Sohrab Jahanbani,https://www.linkedin.com/in/sjahanban,BIDVINE LTD
 1338,KUMULOS LIMITED,www.kuumulos.com,Dundee/Edinburgh,Bob Lawson,https://www.linkedin.com/in/bobdklawson/,KUMULOS LIMITED
@@ -1348,7 +1348,7 @@ index,name,website,city,officer,officer_linkedin,note
 1347,RESOLVER.CO.UK,www.resolver.co.uk,London,James Walker,https://www.linkedin.com/in/resolvercouk/,RESOLVER.CO.UK
 1348,IMMERSIVE LABS LIMITED,https://www.immersivelabs.co.uk,"Bristol, UK",James Hadley,https://www.linkedin.com/in/james-hadley-8441397/,IMMERSIVE LABS LIMITED
 1349,GOPLAYGO LTD,www.goplaygo.co.uk,Bristol,Robin Brattel,www.linkedin.com/in/rbrattel,GOPLAYGO LTD
-1350,FERTILITY FOCUS LIMITED (OVUSENSE),www.ovusense.com,Warwick,Rob Milnes,https://www.linkedin.com/in/robmilnes/,FERTILITY FOCUS LIMITED (OVUSENSE)
+1350,FERTILITY FOCUS LIMITED,www.ovusense.com,Warwick,Rob Milnes,https://www.linkedin.com/in/robmilnes/,FERTILITY FOCUS LIMITED (OVUSENSE)
 1351,CLOUDPIPES,https://www.cloudpipes.com/,London,Boris Raicheff,https://www.linkedin.com/in/raicheff,CLOUDPIPES
 1352,CHIPPIN LTD,www.chippin.co.uk,Warwick,Charlie Curson,https://www.linkedin.com/in/charliecurson/,CHIPPIN LTD
 1353,ICONFIRM AS,www.iconfirm.eu,Oslo,Christian Butenschon,https://www.linkedin.com/in/christian-butenschon-3b21341,ICONFIRM AS
@@ -1362,15 +1362,15 @@ index,name,website,city,officer,officer_linkedin,note
 1361,HOPTROFF LONDON LIMITED,http://www.hoptrofftime.com/ ,London,David Hulbert,https://www.linkedin.com/in/david-hulbert-1403bb1/,HOPTROFF LONDON LIMITED
 1362,DIGITAL CLIPBOARD,digitalclipboard.com,London,Brian James,https://www.linkedin.com/in/brianjames00/,DIGITAL CLIPBOARD
 1363,VALERANN,valerann.com,London/Tel Aviv,Gabriel Jacobson,https://www.linkedin.com/in/gabrieljacobson/,VALERANN
-1364,DA.RE LTD T/A FOOD SAFE SYSTEM,www.foodsafesystem.com,Belfast,Neil Bradley,https://www.linkedin.com/in/chefneilbradley/,DA.RE LTD T/A FOOD SAFE SYSTEM
+1364,FOOD SAFE SYSTEM,www.foodsafesystem.com,Belfast,Neil Bradley,https://www.linkedin.com/in/chefneilbradley/,DA.RE LTD T/A FOOD SAFE SYSTEM
 1365,GRIFFIN FINANCIAL TECHNOLOGY LTD.,https://griffin.sh,London,William David Jarvis (I go by David),https://www.linkedin.com/in/wdavidjarvis/,GRIFFIN FINANCIAL TECHNOLOGY LTD.
-1366,EVLUTION (TRADING & REGISTERED AS RENTE),rentecars.co.uk,Birmingham,Robert Jolly,https://www.linkedin.com/in/rob-jolly-488781ab/,EVLUTION (TRADING & REGISTERED AS RENTE)
+1366,RENTE,rentecars.co.uk,Birmingham,Robert Jolly,https://www.linkedin.com/in/rob-jolly-488781ab/,EVLUTION (TRADING & REGISTERED AS RENTE)
 1367,CYBERSHIELD LTD,www.cybershieldgroup.com,Cheltenham,Paul Chapman,https://www.linkedin.com/in/paul-chapman-b12b75b7/,CYBERSHIELD LTD
 1368,COLLECTIVE NARRATIVE,underconstruction,Preston,Franklyn Sheldon,"Franklyn Sheldon - owner, entrepeneur",COLLECTIVE NARRATIVE
 1369,DOGIZ,www.dogiz.com,Tel Aviv & London,Danny Djanogly,https://www.linkedin.com/in/danny-djanogly-50b82b6a/,DOGIZ
-1370,BRIDGEU ,www.bridge-u.com,London (& Hong Kong),Lucy Stonehill,https://uk.linkedin.com/in/lucy-stonehill-80434924,BRIDGEU (2ND APPLICATION)
+1370,BRIDGEU ,www.bridge-u.com,London & Hong Kong,Lucy Stonehill,https://uk.linkedin.com/in/lucy-stonehill-80434924,BRIDGEU (2ND APPLICATION)
 1371,LETO TECH,leto.global,Berlin,Thomas Reemer,https://www.linkedin.com/in/thomasreemer/,LETO TECH
-1372,COACHIZE,www.coachize.com,"Berlin, Germany. (Option to headquarter in UK)",Christoph Hollinger,https://www.linkedin.com/in/christoph-hollinger-3a85a984/,COACHIZE
+1372,COACHIZE,www.coachize.com,"Berlin, Germany",Christoph Hollinger,https://www.linkedin.com/in/christoph-hollinger-3a85a984/,COACHIZE
 1373,FEDR8 LTD,www.fedr8.com,Farnborough,Damion Greef,Damion Greef,FEDR8 LTD
 1374,COMPTEK SOLUTIONS,www.comptek-solutions.com,"Turku, Finland",Vicente Calvo Alonso,https://www.linkedin.com/in/vicaso/,COMPTEK SOLUTIONS
 1375,STEPLADDER,www.joinStepLadder.com,London,Matthew Addison,linkedin.com/in/matthew-addison-a72490108,STEPLADDER
@@ -1452,17 +1452,17 @@ index,name,website,city,officer,officer_linkedin,note
 1451,BENUMU,www.benumu.com,London,Tom Lethaby,https://www.linkedin.com/in/tom-lethaby-52ba4711,BENUMU
 1452,SHIFT,shift.online,London,Jacob Corlett,jacob.corlett,SHIFT
 1453,FLOWER CHEF,appstore.com/flowerchef,Seend,Lukasz Nycz,https://www.linkedin.com/in/lukasz-nycz-608a37/,FLOWER CHEF
-1454,ONE RIPPLE LIMITED  - TRADING AS POUCH,www.joinpouch.com,London,Jonny Plein,https://www.linkedin.com/in/jonnyplein/,ONE RIPPLE LIMITED  - TRADING AS POUCH
+1454,ONE RIPPLE LIMITED  ,www.joinpouch.com,London,Jonny Plein,https://www.linkedin.com/in/jonnyplein/,ONE RIPPLE LIMITED  - TRADING AS POUCH
 1455,DOT ZRO LIMITED,www.dotzro.com,London,Charles Clegg,https://uk.linkedin.com/in/charles-clegg-032b1924,DOT ZRO LIMITED
 1456,DO-IT SOLUTIONS LTD,http://doitprofiler.com/,Cardiff,Nick Gallagher,https://www.linkedin.com/in/nick-gallagher-2819bb103/,DO-IT SOLUTIONS LTD
-1457,FAIRWAVES,www.fairwaves.co,"London (plus Boston, Moscow, Riga)",Emin Aleskerov,NA,FAIRWAVES
+1457,FAIRWAVES,www.fairwaves.co,London / Boston / Moscow / Riga,Emin Aleskerov,NA,FAIRWAVES
 1458,DOGBUDDY,dogbuddy.com,London,Richard Setterwall,https://uk.linkedin.com/in/setterwall,DOGBUDDY
-1459,RESOLVE TECHNOLOGIES (FORMELY POWA),https://rezolve.com/instant-overview/,London and Asia pac,Dan Wagner,https://en.wikipedia.org/wiki/Dan_Wagner,RESOLVE TECHNOLOGIES (FORMELY POWA)
+1459,RESOLVE TECHNOLOGIES,https://rezolve.com/instant-overview/,London and Asia pac,Dan Wagner,https://en.wikipedia.org/wiki/Dan_Wagner,RESOLVE TECHNOLOGIES (FORMELY POWA)
 1460,DEVICE AUTHORITY LIMITED,www.deviceauthority.com,Bracknell,Darron Antill,https://www.linkedin.com/in/darronantill/,DEVICE AUTHORITY LIMITED
 1461,ADVIR,www.advir.co,London,Samuel Huber,www.linkedin.com/in/samhuber,ADVIR
-1462,SYSTEMSYNC SOLUTIONS LTD (2ND APPLICATION,www.pensionsync.com ,London,William Lovegrove,https://www.linkedin.com/in/willlovegrove/,SYSTEMSYNC SOLUTIONS LTD (2ND APPLICATION
+1462,SYSTEMSYNC SOLUTIONS LTD,www.pensionsync.com ,London,William Lovegrove,https://www.linkedin.com/in/willlovegrove/,SYSTEMSYNC SOLUTIONS LTD (2ND APPLICATION
 1463,PAYDAYS,getpaydays.com,London,Peter Briffett,https://www.linkedin.com/in/peterbriffett/,PAYDAYS
-1464,ABACUS GEOSCIENCE LIMITED (HOLDCO),www.rocksolidimages.com,London/Sheffield/Houston (Tx),Stephen Baird,Stephen Baird,ABACUS GEOSCIENCE LIMITED (HOLDCO)
+1464,ABACUS GEOSCIENCE LIMITED,www.rocksolidimages.com,London/Sheffield/Houston,Stephen Baird,Stephen Baird,ABACUS GEOSCIENCE LIMITED (HOLDCO)
 1465,VIRTUAL ARTS,www.virtualarts.co.uk,Cambridge,Pete Hutton,https://www.linkedin.com/in/pete-hutton/,VIRTUAL ARTS
 1466,AIRTS,www.airts.co.uk,Edinburgh,Andrew Bone,https://www.linkedin.com/in/andrewdfbone/,AIRTS
 1467,FREE SHOPPING LOTTERY LTD,Under construction,London,Mark Johnston,https://www.linkedin.com/in/mark-johnston-98566715/,FREE SHOPPING LOTTERY LTD
@@ -1474,7 +1474,7 @@ index,name,website,city,officer,officer_linkedin,note
 1473,WHEREISMYTRANSPORT,https://www.whereismytransport.com/,London,Devin De Vries,https://www.linkedin.com/in/devindevries/,WHEREISMYTRANSPORT
 1474,ICARUSPARTS.COM,www.icarusparts.com,Birmingham ,Joe Kibbler,https://www.linkedin.com/in/joe-kibbler-27813a3b/,ICARUSPARTS.COM
 1475,NORTHERN LINEAR,www.northernlinear.com,Sheffield,Wasim 'Woz' Ahmed,https://uk.linkedin.com/in/wozahmed,NORTHERN LINEAR
-1476,ENVOLVE TECHNOLOGY LTD T/A MEMBEROO,http://www.memberoo.net,"Newport, Wales",Emma Smith,https://www.linkedin.com/in/emmasmithlinkedin?originalSubdomain=uk,ENVOLVE TECHNOLOGY LTD T/A MEMBEROO
+1476,ENVOLVE TECHNOLOGY LTD,http://www.memberoo.net,"Newport, Wales",Emma Smith,https://www.linkedin.com/in/emmasmithlinkedin?originalSubdomain=uk,ENVOLVE TECHNOLOGY LTD T/A MEMBEROO
 1477,AKQUIRE,www.akquire-app.co.uk,London,David John,https://www.linkedin.com/in/djohn1/,AKQUIRE
 1478,APPRECIATE,www.justappreciate.com www.appreciatesolutions.com,Isle of Man/London,Robert Hester,https://www.linkedin.com/in/robert-hester/,APPRECIATE
 1479,HUMANISING AUTONOMY,www.humanisingautonomy.com,London,Maya Pindeus,https://www.linkedin.com/in/mayapindeus/,HUMANISING AUTONOMY
@@ -1487,27 +1487,27 @@ index,name,website,city,officer,officer_linkedin,note
 1486,SBOJ.COM,www.sboj.com,"Tunbridge Wells, Kent",Nick Gray,https://www.linkedin.com/in/nickgraysboj/,SBOJ.COM
 1487,KSUBAKA,https://ksubaka.com/en/,London,Giles Trewartha Corbett,https://www.linkedin.com/in/gilescorbett/,KSUBAKA
 1488,VAULT,www.vaultplatform.com,London,Neta Meidav,https://www.linkedin.com/in/netameidav/,VAULT
-1489,CAMBRIDGE ACCELERATOR,We do not have a website yet. ,Cambridge (UK),Marek Tyl,https://www.linkedin.com/in/dr-marek-tyl-06463725/,CAMBRIDGE ACCELERATOR
+1489,CAMBRIDGE ACCELERATOR,We do not have a website yet. ,Cambridge,Marek Tyl,https://www.linkedin.com/in/dr-marek-tyl-06463725/,CAMBRIDGE ACCELERATOR
 1490,BLURRT LTD,www.blurrt.co.uk,Cardiff,Nick Miller,https://www.linkedin.com/in/nickfmiller/,BLURRT LTD
 1491,RACOM LIMITED,n/a,"Salford, MediaCityUK",Russell Adams,https://www.linkedin.com/in/russell-adams-6013101/,RACOM LIMITED
 1492,CARRYR TECHNOLOGIES LIMITED,www.carryr.com,Cambridge,Chris Jordan,www.linkedin.com/in/chris-jordan,CARRYR TECHNOLOGIES LIMITED
-1493,CFT GROUP,https://www.cftgroup.co.uk,London and Liskeard (Cornwall),Marcus Kern,https://www.linkedin.com/in/marcuskern/,CFT GROUP
+1493,CFT GROUP,https://www.cftgroup.co.uk,London and Liskeard,Marcus Kern,https://www.linkedin.com/in/marcuskern/,CFT GROUP
 1494,STUDIO BRITISH,www.studiobritish.com,London,Anabel Calvo,https://www.linkedin.com/in/anabel-calvo-29b3973b/,STUDIO BRITISH
-1495,XCELERATICS LIMITED (INSTANTT APP),https://instantt.co,London,Vikas Sharma,https://www.linkedin.com/in/sharmavik/,XCELERATICS LIMITED (INSTANTT APP)
+1495,XCELERATICS LIMITED,https://instantt.co,London,Vikas Sharma,https://www.linkedin.com/in/sharmavik/,XCELERATICS LIMITED (INSTANTT APP)
 1496,INMYBAG,https://inmybag.co/,London,Philip McGrath,n/a,INMYBAG
 1497,LANDMRK,www.landmrk.it,London,Seth Jackson,https://www.linkedin.com/in/jacksonseth/,LANDMRK
 1498,WALLAME LTD,www.wallame.com,London,Stefano Iotti,https://www.linkedin.com/in/stefanoiotti,WALLAME LTD
 1499,DEAD HAPPY LIMITED,www.deadhappy.com,leicester,Phil ZEidler,Phil Zeidler,DEAD HAPPY LIMITED
-1500,ADZUKI,www.adzuki.co,Copenhagen (looking into relocating to the UK),Claus Pedersen Blicher,https://www.linkedin.com/in/clauspedersenblicher/,ADZUKI
+1500,ADZUKI,www.adzuki.co,Copenhagen ,Claus Pedersen Blicher,https://www.linkedin.com/in/clauspedersenblicher/,ADZUKI
 1501,MOTEEFE,moteefe.com,"London, UK",Mathijs Eefting,https://www.linkedin.com/in/mathijseefting/,MOTEEFE
 1502,GENESIS TECHNICAL SYSTEMS,www.genesistechsys.com,Coventry,Peter Khoury,https://www.linkedin.com/in/peterakhoury/,GENESIS TECHNICAL SYSTEMS
 1503,NOMAD AI LTD,https://kulea.ma,Milton Keynes,Steve Bircher,www.linkedin.com/in/steve-bircher-20760948,NOMAD AI LTD
-1504,SNAP TRAVEL TECHNOLOGY (TRADING AS SN-AP),sn-ap.com,London,Thomas Ableman,https://www.linkedin.com/in/thomas-ableman-12255229/,SNAP TRAVEL TECHNOLOGY (TRADING AS SN-AP)
+1504,SNAP TRAVEL TECHNOLOGY,sn-ap.com,London,Thomas Ableman,https://www.linkedin.com/in/thomas-ableman-12255229/,SNAP TRAVEL TECHNOLOGY (TRADING AS SN-AP)
 1505,EVERYWALK.COM LTD ,www.everywalk.com,Manchester,Warren lunt,www.linkedin.com/in/warren-lunt-0067a225,EVERYWALK.COM LTD (2ND APPLICATION)
 1506,"NEUROVALENS, INC ",https://www.modiushealth.com/,Belfast,Tony Wilcox,https://www.linkedin.com/in/tony-wilcox-b2a8731/,"NEUROVALENS, INC (2ND APPLICATION)"
 1507,TVPLAYER ,www.tvplayer.com,London,Rob Hodgkinson,https://www.linkedin.com/in/robert-hodgkinson-a64348a/,TVPLAYER (2ND APPLICATION)
 1508,DIESEL.MARKET,diesel-market.com,Moscow,Dmitry Okatenko,https://www.linkedin.com/in/dmitry-okatenko-06a39427,DIESEL.MARKET
-1509,PGY GROUP LIMITED (TRADING AS YOMO),https://getyomo.com,"Belfast, United Kingdom",Gavin Shields,https://www.linkedin.com/in/gavinshields/,PGY GROUP LIMITED (TRADING AS YOMO)
+1509,PGY GROUP LIMITED,https://getyomo.com,"Belfast, United Kingdom",Gavin Shields,https://www.linkedin.com/in/gavinshields/,PGY GROUP LIMITED (TRADING AS YOMO)
 1510,FANTOO LIMITED,http://fantoo.com ,Bracknell ,Jordan Fantaay ,https://www.linkedin.com/in/jordanfantaay/,FANTOO LIMITED
 1511,NOMADIX MEDIA LTD,www.nomadixmedia.com,Uddingston ,Mark John Evans,https://www.linkedin.com/in/mark-evans-95425,NOMADIX MEDIA LTD
 1512,HORIZON,n/a,global,Nayden Tsonev,https://www.linkedin.com/in/naydthegreat/,HORIZON
@@ -1536,13 +1536,13 @@ index,name,website,city,officer,officer_linkedin,note
 1535,OFF3R,www.off3r.com,London,Lex Deak,https://www.linkedin.com/in/lexdeak/,OFF3R
 1536,BEEM,http://www.beem.io,London,Raj Valley,https://www.linkedin.com/in/rajvalley/,BEEM
 1537,LINCS PRIME FRESH LTD,https://www.lincsprimefresh.co.uk,"Louth, Lincolnshire",David Varney,https://www.linkedin.com/in/david-varney-07a27b6,LINCS PRIME FRESH LTD
-1538,2MEE LTD T/A FACEE,www.facee.io (under construction),York,Ian Russsell,https://www.linkedin.com/in/ian-russell-50a18b3b/,2MEE LTD T/A FACEE
+1538,2MEE LTD,www.facee.io (under construction),York,Ian Russsell,https://www.linkedin.com/in/ian-russell-50a18b3b/,2MEE LTD T/A FACEE
 1539,ADVANCED LOGIC ANALYTICS,www.advancedlogicanalytics.com,London,Pim Dale,https://www.linkedin.com/in/pim-dale-8066048/,ADVANCED LOGIC ANALYTICS
 1540,MORTGAGE GYM LIMITED,www.mortgagegym.com,"Camberley, Surrey",John Ingram,www.linkedin.com/in/mortgagegym,MORTGAGE GYM LIMITED
 1541,ARTUDATA,artudata.com,London,Tal Zohar,https://www.linkedin.com/in/talavda/,ARTUDATA
 1542,EMOOV,www.emoov.co.uk,London,Russell Quirk,https://www.linkedin.com/in/russell-quirk/,EMOOV
 1543,KINTERACT,https://www.kinteract.co.uk/,London UK,Emma Ayton,https://www.linkedin.com/in/emma-ayton-5357272b/,KINTERACT
-1544,CODESSE LTD T/AS GEEKTASTIC,www.geektastic.com,London,Rick Brownlow,https://www.linkedin.com/in/rickbrownlow,CODESSE LTD T/AS GEEKTASTIC
+1544,CODESSE LTD ,www.geektastic.com,London,Rick Brownlow,https://www.linkedin.com/in/rickbrownlow,CODESSE LTD T/AS GEEKTASTIC
 1545,CAPITAL GTU LTD.,http://www.tobeesafe.com/,Ely,Abram Giller,https://www.linkedin.com/in/abram-giller-05772010a/,CAPITAL GTU LTD.
 1546,SHOPUPP LIMITED,www.shopupp.com,London,Carl Mustad,https://www.linkedin.com/in/carl-mustad-7675828/,SHOPUPP LIMITED
 1547,WEBZSUITE LIMITED,https://webzsuite.com,Edinburgh,Miroslaw Molek,https://www.linkedin.com/in/mikemolek/,WEBZSUITE LIMITED
@@ -1559,8 +1559,8 @@ index,name,website,city,officer,officer_linkedin,note
 1558,ADLUDIO,www.adludio.com,London,Paul Coggins,https://www.linkedin.com/in/paulcoggins,ADLUDIO
 1559,MINT DIAGNOSTICS,https://mintdiagnostics.com/,Cambridge,Stefano  Borini,https://uk.linkedin.com/in/stefano-borini-9147b954,MINT DIAGNOSTICS
 1560,ALPHABOT LABS LTD,www.alphabotlabs.com,Mancehster,Adam Hosker,https://www.linkedin.com/in/adamhoskersoftwareone/,ALPHABOT LABS LTD
-1561,SCE.NE CENTRAL LTD (TRADING AS SCENE),www.sce.ne,London,Mr Suresh Kumar,https://www.linkedin.com/in/sureshkumar81/,SCE.NE CENTRAL LTD (TRADING AS SCENE)
-1562,ORCA MONEY LIMITED (ORCA),https://www.orcamoney.com/,Edinburgh/ Belfast,Iain,https://www.linkedin.com/in/iain-niblock/,ORCA MONEY LIMITED (ORCA)
+1561,SCE.NE CENTRAL LTD,www.sce.ne,London,Mr Suresh Kumar,https://www.linkedin.com/in/sureshkumar81/,SCE.NE CENTRAL LTD (TRADING AS SCENE)
+1562,ORCA MONEY LIMITED,https://www.orcamoney.com/,Edinburgh/ Belfast,Iain,https://www.linkedin.com/in/iain-niblock/,ORCA MONEY LIMITED (ORCA)
 1563,YOUTOGGLE,www.youtoggle.com,London,Peter Graham,https://www.linkedin.com/in/peter-graham-750b6530/,YOUTOGGLE
 1564,SHOESIE LABS LTD,www.shoesie.co,London,Simeon Bird,https://www.linkedin.com/in/simeon-bird-b48701135,SHOESIE LABS LTD
 1565,GT8 ONLINE LTD,GT8.online & mindetic.com,Glasgow,Ciaran O'Toole,https://www.linkedin.com/in/cotoole/,GT8 ONLINE LTD
@@ -1578,7 +1578,7 @@ index,name,website,city,officer,officer_linkedin,note
 1577,CERA,www.CeraCare.co.uk,London,Ben Maruthappu,https://www.linkedin.com/in/mahibenmaruthappu/,CERA
 1578,AUGMENTERA LTD,Stealth,"Even Yehuda, Israel",Eilon Rosman,www.linkedin.com/in/eilon-rosman,AUGMENTERA LTD
 1579,THEWEBSHED,https://thewebshed.co,Leicester,Kieran Headley,https://www.linkedin.com/in/kieranheadley/,THEWEBSHED
-1580,WHITEBULLET (SECOND APPLICATION),www.white-bullet.com,London,Peter Szyszko,https://www.linkedin.com/in/peterszyszko/,WHITEBULLET (SECOND APPLICATION)
+1580,WHITEBULLET,www.white-bullet.com,London,Peter Szyszko,https://www.linkedin.com/in/peterszyszko/,WHITEBULLET (SECOND APPLICATION)
 1581,BIBLIOTECH EDUCATION,BIBLIOTECH.EDUCATION,LONDON,TAO MANTARAS,https://uk.linkedin.com/in/tao-mantaras-437a2067,BIBLIOTECH EDUCATION
 1582,TRAYDSTREAM LIMITED,http://traydstream.com/,London,Uzair Bawany,https://www.linkedin.com/in/uzairbawany/,TRAYDSTREAM LIMITED
 1583,APPSECTEST LTD,https://www.appsectest.com/,Peterborough,Julian Evans,https://www.linkedin.com/in/julianevans/,APPSECTEST LTD
@@ -1598,7 +1598,7 @@ index,name,website,city,officer,officer_linkedin,note
 1597,GOPHR,gophr.com,London,Seb Robert,https://www.linkedin.com/in/sebrobert/,GOPHR
 1598,PROTEAM TECHNOLOGIES ,www.proteam.io,London,Dean Garlick,https://www.linkedin.com/in/dean-garlick-5006397a/,PROTEAM TECHNOLOGIES (2ND APPLICATION)
 1599,DADSHED,dadshed.co.uk,"Manchester, United Kingdom",Bharat Lad,https://www.linkedin.com/in/bharatlad/,DADSHED
-1600,KINDEO (NEW APPLICATION),kindeo.com,London,John Gilbey,https://www.linkedin.com/in/johngilbey/,KINDEO (NEW APPLICATION)
+1600,KINDEO ,kindeo.com,London,John Gilbey,https://www.linkedin.com/in/johngilbey/,KINDEO (NEW APPLICATION)
 1601,U ACCOUNT,https://www.uaccount.uk/,Sheffield,Robert Colley,https://www.linkedin.com/in/robert-colley-58070820/,U ACCOUNT
 1602,ONCARE,www.weareoncare.com,London,Alistair Cohen,https://www.linkedin.com/in/amcohen/,ONCARE
 1603,GREENRIDE SHARING,www.greenridesharing.com,Exeter and London,YA SUN,https://www.linkedin.com/in/sylviayasun/,GREENRIDE SHARING
@@ -1611,14 +1611,14 @@ index,name,website,city,officer,officer_linkedin,note
 1610,TAGTENT LIMITED,www.tagtnet.com,Manchester,Stephen Sumner,https://www.linkedin.com/in/stephensumner/,TAGTENT LIMITED
 1611,DOPPEL,www.feeldoppel.com,London,Fotini Markopoulou,https://www.linkedin.com/in/fotinimarkopoulou/,DOPPEL
 1612,MOBILUS LABS,http://www.mobiluslabs.com,London,Jordan McRae,https://www.linkedin.com/in/jmcrae23/,MOBILUS LABS
-1613,SHIFT (LADS STORE LTD),TBC,Leeds,Liam Patterson,www.linkedin.com/in/liam-patterson,SHIFT (LADS STORE LTD)
+1613,LADS STORE LTD,TBC,Leeds,Liam Patterson,www.linkedin.com/in/liam-patterson,SHIFT (LADS STORE LTD)
 1614,HATCHFOX STUDIOS,https://hatchfoxstudios.com,Brisbane,Sasha Horan,N/A,HATCHFOX STUDIOS
 1615,VERATRAK,www.veratrak.com,Oxford,Jason Lacombe,https://www.linkedin.com/in/jason-lacombe-2181a9102/,VERATRAK
 1616,MODEL VILLAGE,modelvillage.co,london,nathaniel cooper,Nathaniel Cooper - DC Advisory,MODEL VILLAGE
-1617,INOVA DESIGN SOLUTIONS LTD (BRAND TRADEMARK: BODYTRAK),http://www.bodytrak.co,London,Leon Marsh,https://www.linkedin.com/in/leon-marsh-79283b28/,INOVA DESIGN SOLUTIONS LTD (BRAND TRADEMARK: BODYTRAK)
-1618,CYANCE LIMITED,www.cyance.com,"Bloxham near Banbury, Oxfordshire",Mike Housley,https://www.linkedin.com/in/mike-housley-9562a21/?trk=public-profile-join-page,CYANCE LIMITED
+1617,INOVA DESIGN SOLUTIONS LTD,http://www.bodytrak.co,London,Leon Marsh,https://www.linkedin.com/in/leon-marsh-79283b28/,INOVA DESIGN SOLUTIONS LTD (BRAND TRADEMARK: BODYTRAK)
+1618,CYANCE LIMITED,www.cyance.com,Bloxham,Mike Housley,https://www.linkedin.com/in/mike-housley-9562a21/?trk=public-profile-join-page,CYANCE LIMITED
 1619,SUPAFANZ,https://www.supafanz.com,Birmingham,phillip molloy,https://www.linkedin.com/in/phillipmolloy/,SUPAFANZ
-1620,RTOBJECTS [REAL TIME OBJECTS LTD],www.rtobjects.com,Brighton,Ian Monaghan,https://www.linkedin.com/in/ian-monaghan-958344b/,RTOBJECTS [REAL TIME OBJECTS LTD]
+1620,REAL TIME OBJECTS LTD,www.rtobjects.com,Brighton,Ian Monaghan,https://www.linkedin.com/in/ian-monaghan-958344b/,RTOBJECTS [REAL TIME OBJECTS LTD]
 1621,POQ STUDIO LTD,www.poqcommerce.com,London,Michael Langguth,https://www.linkedin.com/in/langguthmichael/,POQ STUDIO LTD
 1622,JUSTUS,www.justus.co,"Alderely Edge, Cheshire",Tim Dempsey,www.linkedin.com/tsdempsey,JUSTUS
 1623,BUBBL LTD,http://bubbl.tech/,London,Jo Eckersley,https://www.linkedin.com/in/joeckersley/,BUBBL LTD
@@ -1647,7 +1647,7 @@ index,name,website,city,officer,officer_linkedin,note
 1646,BRAIN IN HAND LTD,www.braininhand.co.uk,Exeter,David Fry,www.linkedin.com/in/davidfrybraininhand,BRAIN IN HAND LTD
 1647,ALBERT,www.getalbert.com,London,Ivo Weevers,https://www.linkedin.com/in/ivoweevers,ALBERT
 1648,WI-5,http://wi-5.com,London,Prask Sutton,https://www.linkedin.com/in/prask/,WI-5
-1649,TANGENTIX LTD T/A GAMESESSIONS,https://www.gamesessions.com,Sheffield,Edward Michael French,https://www.linkedin.com/in/edfrench/,TANGENTIX LTD T/A GAMESESSIONS
+1649,TANGENTIX LTD,https://www.gamesessions.com,Sheffield,Edward Michael French,https://www.linkedin.com/in/edfrench/,TANGENTIX LTD T/A GAMESESSIONS
 1650,UNSHACKLED.COM LIMITED,www.unshackled.com,MANCHESTER,STEVEN LLOYD,linkedin.com/in/steven-lloyd-15b6478a,UNSHACKLED.COM LIMITED
 1651,MANUS NEURODYNAMICA LTD,www.manusneuro.com,BioCity Scotland,Rutger Christiaan Zietsma,https://www.linkedin.com/in/rutger-zietsma-7281122b/,MANUS NEURODYNAMICA LTD
 1652,COMESTO,www.comesto.co.uk,Stratford upon Avon,Valentine Smith,www.linkedin.com/in/valentine-smith-454094131 ,COMESTO
@@ -1655,7 +1655,7 @@ index,name,website,city,officer,officer_linkedin,note
 1654,HONE & STROPHOLDINGS. LTD,www.honeandstrop.com,London,Rodney Bell,https://www.linkedin.com/in/rodneybell1/,HONE & STROPHOLDINGS. LTD
 1655,RENEWAL DIARY,www.renewaldiary.com ,Dublin ,Cormac Horan,https://www.linkedin.com/in/cormachoran/,RENEWAL DIARY
 1656,TABLEDASH,www.tabledash.co.uk,Manchester,Floyd Hutchinson,https://www.linkedin.com/in/floydhutchinson/,TABLEDASH
-1657,SALOCA LTD (T/A APPOINTEDD),www.appointedd.com,Edinburgh,Leah Hutcheon,https://www.linkedin.com/in/leahhutcheon/,SALOCA LTD (T/A APPOINTEDD)
+1657,SALOCA LTD,www.appointedd.com,Edinburgh,Leah Hutcheon,https://www.linkedin.com/in/leahhutcheon/,SALOCA LTD (T/A APPOINTEDD)
 1658,PEEK JOBS,www.peekjobs.co.uk,London,Aws Ismail,https://www.linkedin.com/in/aws-ismail-94371511a/detail/background-image/,PEEK JOBS
 1659,KINDABA LIMITED,https://kindaba.com,Edinburgh,Robert Gelb,https://www.linkedin.com/in/robgelb/,KINDABA LIMITED
 1660,ANDI GAMES LTD,www.Gameway.io,London,Benjamin Woolf,https://www.linkedin.com/in/ben-woolf-86b86156/,ANDI GAMES LTD
@@ -1686,7 +1686,7 @@ index,name,website,city,officer,officer_linkedin,note
 1685,KOMPAS,https://www.kompasapp.com,London,Tom Charman,https://www.linkedin.com/in/tcharman/,KOMPAS
 1686,EDUCATIONALAPPSTORE LTD,www.educationalappstore.com,London,Justin Smith,https://www.linkedin.com/in/justin-smith1/,EDUCATIONALAPPSTORE LTD
 1687,KETS QUANTUM SECURITY LTD,www.kets-quantum.com,Bristol,Chris Erven,coming...,KETS QUANTUM SECURITY LTD
-1688,BRIGHT LET LIMITED - BRIGHTLET,www.brightlet.com,Birmingham,Camran Khan,https://www.linkedin.com/in/camrankhan/,BRIGHT LET LIMITED - BRIGHTLET
+1688,BRIGHT LET LIMITED,www.brightlet.com,Birmingham,Camran Khan,https://www.linkedin.com/in/camrankhan/,BRIGHT LET LIMITED - BRIGHTLET
 1689,UTIL,util.co,Oxford,Abdel Wahab Turkmani,https://www.linkedin.com/in/asturkmani/,UTIL
 1690,RENTE,https://www.rentecars.co.uk,Birmingham,Rob Jolly,https://www.linkedin.com/in/rob-jolly-488781ab/,RENTE
 1691,CAMBIOSCIENCE LTD.,www.cambioscience.com,Cambridge ,Dr. Chibeza Chintu Agley,https://www.linkedin.com/in/chibeza-agley-2b59a999/,CAMBIOSCIENCE LTD.
@@ -1730,7 +1730,7 @@ index,name,website,city,officer,officer_linkedin,note
 1729,WE ARE DIGITAL,www.we-are-digital.co.uk,Warwick,Matthew Adam,https://www.linkedin.com/in/matthew-adam-595a242/,WE ARE DIGITAL
 1730,PROMOMII LTD,www.promomii.com,London,Daniel Halasz,https://www.linkedin.com/in/danielhalasz8/,PROMOMII LTD
 1731,RESURGO GENETICS,www.resurgo.com,London,Rajiv Gogna,https://www.linkedin.com/in/rajiv-gogna-34231580/,RESURGO GENETICS
-1732,STITCHED (TRADING NAME OF HIVE & DESIGN LTD),www.stitched.co.uk,London,Elinor Pitt ,https://www.linkedin.com/in/elinor-pitt/,STITCHED (TRADING NAME OF HIVE & DESIGN LTD)
+1732,HIVE & DESIGN LTD,www.stitched.co.uk,London,Elinor Pitt ,https://www.linkedin.com/in/elinor-pitt/,STITCHED (TRADING NAME OF HIVE & DESIGN LTD)
 1733,RIGHTSMITH LIMITED,www.framepool.com,London,Mica Imamura,https://www.linkedin.com/in/imamura/,RIGHTSMITH LIMITED
 1734,FINDMECURE,www.findmecure.com,London,Maya Zlatanova,https://www.linkedin.com/in/mayazlatanova/,FINDMECURE
 1735,BRAINN WAVE LIMITED,www.brainnwave.com,Edinburgh,Steven Coates,https://www.linkedin.com/in/steve-coates/,BRAINN WAVE LIMITED
@@ -1744,7 +1744,7 @@ index,name,website,city,officer,officer_linkedin,note
 1743,ONE CLICK LICENCE LTD,https://what.ocl.is/,London,Bhim Singh,https://www.linkedin.com/in/bhim-singh-91a07292/,ONE CLICK LICENCE LTD
 1744,STYLINDEX,www.stylindex.com,London,Holly Dunlap,https://www.linkedin.com/in/holly-dunlap-aa3239116/,STYLINDEX
 1745,ICYBER-SECURITY GROUP LTD,www.icyber-security.com,Reading / Newbury,Norman Robert Frankel,https://www.linkedin.com/in/nfrankel/,ICYBER-SECURITY GROUP LTD
-1746,GRADIT LTD (TRADING AS GOINTRO),www.gointro.io,Edinburgh,Joseph Afif,https://www.linkedin.com/in/joeafif/,GRADIT LTD (TRADING AS GOINTRO)
+1746,GRADIT LTD,www.gointro.io,Edinburgh,Joseph Afif,https://www.linkedin.com/in/joeafif/,GRADIT LTD (TRADING AS GOINTRO)
 1747,"UNI ROBOTICS, INC.",,,Phillip Buckendorf,https://www.linkedin.com/in/phillipbuckendorf/,"UNI ROBOTICS, INC."
 1748,OBJECTBOX,objectbox.io,London,Vivien Dollinger,https://www.linkedin.com/in/vivien-dollinger/,OBJECTBOX
 1749,CAMBRIDGE TOUCH TECHNOLOGIES LIMITED,http://www.camtouch3d.com,Cambridge,Stuart McKnight,https://www.linkedin.com/in/smcknight/,CAMBRIDGE TOUCH TECHNOLOGIES LIMITED
@@ -1768,7 +1768,7 @@ index,name,website,city,officer,officer_linkedin,note
 1767,CARCELA,www.carcela.com,Glasgow,Dagmawi Belay,www.linkedin.com/in/dagmawi/,CARCELA
 1768,METABOARDS,www.metaboards.tech,Oxford,Peter Hutton,https://www.linkedin.com/in/pete-hutton/,METABOARDS
 1769,SENSIBLE OBJECT LTD,sensibleobject.com,London,Alex Fleetwood,https://www.linkedin.com/in/alexfleetwood/,SENSIBLE OBJECT LTD
-1770,VERV (GREEN RUNNING),verv.energy / greenrunning.com,London,Maria McKavanagh,https://www.linkedin.com/in/maria-mckavanagh-1741751a,VERV (GREEN RUNNING)
+1770,GREEN RUNNING,verv.energy / greenrunning.com,London,Maria McKavanagh,https://www.linkedin.com/in/maria-mckavanagh-1741751a,VERV (GREEN RUNNING)
 1771,AUDAZZLE,audazzle.com,Portsmouth,Selwyn Lloyd,https://www.linkedin.com/in/selwyn-lloyd-9aa9009/,AUDAZZLE
 1772,CLOUDINAIO,www.cloudina.io,London,Thomas Jensen,https://www.linkedin.com/in/jensent/,CLOUDINAIO
 1773,CONTRACTELITE,https://contractelite.com,london,mark lee,https://www.linkedin.com/in/mark-lee-9b63992/,CONTRACTELITE
@@ -1787,7 +1787,7 @@ index,name,website,city,officer,officer_linkedin,note
 1786,SUISSE LIFE SCIENCE GROUP PLC,http://suisselifescience.com,London,Omar Fogliadini,https://www.linkedin.com/in/omarfogliadini/,SUISSE LIFE SCIENCE GROUP PLC
 1787,HYPERION DEVELOPMENT,www.hyperiondev.com,London,Riaz Moola,https://www.linkedin.com/in/riazmoola/,HYPERION DEVELOPMENT
 1788,RIGHTINDEM,http://rightindem.com,Nottingham,Graham Blaney,https://www.linkedin.com/in/grahamblaney/,RIGHTINDEM
-1789,OPENDESK (FABBED LIMITED),https://www.opendesk.cc,London,Nick Ierodiaconou,https://www.linkedin.com/in/nickdiaconou/,OPENDESK (FABBED LIMITED)
+1789,FABBED LIMITED,https://www.opendesk.cc,London,Nick Ierodiaconou,https://www.linkedin.com/in/nickdiaconou/,OPENDESK (FABBED LIMITED)
 1790,VIEWRON,www.viewron.com,Manchester,Fareed Baloch,https://www.linkedin.com/in/fareed1/,VIEWRON
 1791,JAJA FINANCE LTD,www.jaja.co  (password protected: jajafinance),London,Per Elvebakk,https://www.linkedin.com/in/elvebakk/,JAJA FINANCE LTD
 1792,MASHAURI,https://mashauri.org,London,Simon Gifford,www.linkedin.com/in/simongifford,MASHAURI
@@ -1825,7 +1825,7 @@ index,name,website,city,officer,officer_linkedin,note
 1824,DEBTCASE LTD,www.debtcase.com,Portsmouth,Brian Leon Smith,,DEBTCASE LTD
 1825,JOBSEEKRS,http://www.jobseekrs.co.uk/,Manchester,Jamaal Rodney Antonio Brathwaite,,JOBSEEKRS
 1826,PAVEGEN,www.pavegen.com,London,Laurence Kemball-Cook,,PAVEGEN
-1827,AIRSORTED LIMITED,airsorted.uk,London; Edinburgh; Dublin; Sydney,Daniel Scott,,AIRSORTED LIMITED
+1827,AIRSORTED LIMITED,airsorted.uk,London / Edinburgh /Dublin/ Sydney,Daniel Scott,,AIRSORTED LIMITED
 1828,POCKIT LTD,www.pockit.com,London,Virraj Jatania,https://www.linkedin.com/in/virrajjatania/?ppe=1,POCKIT LTD
 1829,ENERGI MINE,www.energimine.com,Manchester,Tim Dempsey,www.linkedin.com/tsdempsey,ENERGI MINE
 1830,CYGNETISE LIMITED,www.cygnetise.com,London,Steve Pomfret,,CYGNETISE LIMITED
@@ -1833,7 +1833,7 @@ index,name,website,city,officer,officer_linkedin,note
 1832,LANGU,www.heylangu.com,London,Travis Wentworth,,LANGU
 1833,SOCIAL GRAFFITI LIMITED,www.social-graffiti.com,Bristol,Henry Paul Nash,linkedin.com/in/henrypnash,SOCIAL GRAFFITI LIMITED
 1834,ANTIVERSE LTD,www.antiverse.io,Cambridge,Rowina Westermeier,https://uk.linkedin.com/in/rowina-westermeier-7a506396,ANTIVERSE LTD
-1835,CLINISHARE LIMITED T/A CLINISENT,www.clinisent.com,Belfast,"Dr Sebastian Roberts,Dr Sebastian E A Roberts","https://www.linkedin.com/in/seb-roberts/, https://www.linkedin.com/in/seb-roberts/",CLINISHARE LIMITED T/A CLINISENT
+1835,CLINISHARE LIMITED,www.clinisent.com,Belfast,"Dr Sebastian Roberts,Dr Sebastian E A Roberts","https://www.linkedin.com/in/seb-roberts/, https://www.linkedin.com/in/seb-roberts/",CLINISHARE LIMITED T/A CLINISENT
 1836,ENTOCYCLE,www.entocycle.com,London / Scotland / San Francisco ,Keiran Olivares Whitaker,https://www.linkedin.com/in/keiran-olivares-whitaker-a2b8b795/,ENTOCYCLE
 1837,NOWATT LTD,www.nowatt.com,Newbury,Allister Mannion,https://www.linkedin.com/in/allister-mannion-2a32ba17b/,NOWATT LTD
 1838,SKR MEDIA,www.dojoapp.co,London,Robbie Shimmin,,SKR MEDIA
@@ -1844,7 +1844,7 @@ index,name,website,city,officer,officer_linkedin,note
 1843,SPORTSSIDEKICK LTD,www.sportssidekick.tv,London,Jonathan Goddard,https://www.linkedin.com/in/jonathan-goddard-05366327/,SPORTSSIDEKICK LTD
 1844,LINETEN,https://www.lineten.com/,London,Ben Scallan,https://www.linkedin.com/in/ben-s-57663419/,LINETEN
 1845,ELECTRIC ELASTIC,,,Ryan Procter,https://www.linkedin.com/in/ryanprocter/,ELECTRIC ELASTIC
-1846,THEDATA.IO (CURRENT PROJECT NAME) OF THE LIST LTD.,api.list.co.uk,Edinburgh,Brendan Miles,https://www.linkedin.com/in/brendanjmiles/,THEDATA.IO (CURRENT PROJECT NAME) OF THE LIST LTD.
+1846,THEDATA.IO,api.list.co.uk,Edinburgh,Brendan Miles,https://www.linkedin.com/in/brendanjmiles/,THEDATA.IO (CURRENT PROJECT NAME) OF THE LIST LTD.
 1847,BINGETALES,www.bingetales.com,Jaipur,Pawas Jain,https://www.linkedin.com/in/pawasjain/,BINGETALES
 1848,CROWDSKILLS,www.crowdskills.com,London,Iman Fadaei,,CROWDSKILLS
 1849,ECOSQUARED,http://ecosquared.co.uk,Aberdeen,David Pinto,https://www.linkedin.com/in/davidpint0/,ECOSQUARED
@@ -1878,7 +1878,7 @@ index,name,website,city,officer,officer_linkedin,note
 1877,WHITEBULLET SOLUTIONS LIMITED,www.white-bullet.com,London,Peter Szyszko,https://www.linkedin.com/in/peterszyszko/,WHITEBULLET SOLUTIONS LIMITED
 1878,STORAGEOS LTD.,https://storageos.com/,London,Chris Brandon,https://www.linkedin.com/in/cebrando/,STORAGEOS LTD.
 1879,LOCUMTAP LTD,http://locumtap.com,Liverpool and London,Dr Jing Ouyang,https://www.linkedin.com/in/jingouyang1/,LOCUMTAP LTD
-1880,PET TECHNOLOGY LIMITED (TRADING AS FELCANA),felcana.com,London,James Andrews,,PET TECHNOLOGY LIMITED (TRADING AS FELCANA)
+1880,PET TECHNOLOGY LIMITED,felcana.com,London,James Andrews,,PET TECHNOLOGY LIMITED (TRADING AS FELCANA)
 1881,DRIVERNET,www.driver-net.com,St Helens,Anthony Chisnall,Anthony Chisnall,DRIVERNET
 1882,EVERYWALK.COM LTD,www.everywalk.com,Manchester,Chris Fogg,https://www.linkedin.com/in/chris-fogg-8a82ba14/,EVERYWALK.COM LTD
 1883,TEVVA MOTORS,https://www.tevva.com/,Chelmsford,Francis Wright,https://www.linkedin.com/in/francisgfwright/,TEVVA MOTORS
@@ -1911,7 +1911,7 @@ index,name,website,city,officer,officer_linkedin,note
 1910,ZENCARGO,zencargo.com,London,Alex Hersham,https://www.linkedin.com/in/alex-hersham-b7508093/,ZENCARGO
 1911,MEVITAE,www.mevitae.com,Oxford,Riham Satti,https://www.linkedin.com/in/rihamsatti/ ,MEVITAE
 1912,SOFANT TECHNOLOGIES,www.sofant.com,Edinburgh,David Wither,linkedin.com/in/davidwither,SOFANT TECHNOLOGIES
-1913,NURSERY BOOK LTD (TRADING AS KINDERLY),www.kinderly.co.uk,Bath & London,Geraint Barton,,NURSERY BOOK LTD (TRADING AS KINDERLY)
+1913,NURSERY BOOK LTD,www.kinderly.co.uk,Bath & London,Geraint Barton,,NURSERY BOOK LTD (TRADING AS KINDERLY)
 1914,ILLUMR,illumr.com,London,Jason Lee,http://www.linkedin.com/in/hyperjase,ILLUMR
 1915,SERVICEOCTOPUS.COM,https://www.serviceoctopus.com,London,Roberto Garritano,https://www.linkedin.com/in/robertogarritano/,SERVICEOCTOPUS.COM
 1916,THINGBLOX,http://thingblox.com,Budapest,Gabor Borjan,,THINGBLOX
@@ -1937,9 +1937,9 @@ index,name,website,city,officer,officer_linkedin,note
 1936,FIXR,www.fixr.co,London,Nick Stone,https://www.linkedin.com/in/nick-stone-38a30b6/,FIXR
 1937,NCAM TECHNOLOGIES,http://www.ncam-tech.com/,London,Brian Snelling,,NCAM TECHNOLOGIES
 1938,TRIBELAB,www.tribelab.com,London,Paul Offord,https://uk.linkedin.com/in/paulofford,TRIBELAB
-1939,DIGITALBRIDGE (SHORTBITE LTD),www.digitalbridge.eu,Manchester,David Levine,https://www.linkedin.com/in/davidjblevine/,DIGITALBRIDGE (SHORTBITE LTD)
-1940,CAPITO SYSTEMS (TO RE-LAUNCH AS CONVERSENSE),www.capitosystems.com,Cambridge,Tony Ballardie,https://www.linkedin.com/in/tonyballardie/,CAPITO SYSTEMS (TO RE-LAUNCH AS CONVERSENSE)
-1941,1X2GURU (BUT NOT FOUNDED),www.1x2guru.com,Salford,Steinunn Ketilsdottir,,1X2GURU (BUT NOT FOUNDED)
+1939,SHORTBITE LTD,www.digitalbridge.eu,Manchester,David Levine,https://www.linkedin.com/in/davidjblevine/,DIGITALBRIDGE (SHORTBITE LTD)
+1940,CAPITO SYSTEMS,www.capitosystems.com,Cambridge,Tony Ballardie,https://www.linkedin.com/in/tonyballardie/,CAPITO SYSTEMS (TO RE-LAUNCH AS CONVERSENSE)
+1941,1X2GURU,www.1x2guru.com,Salford,Steinunn Ketilsdottir,,1X2GURU (BUT NOT FOUNDED)
 1942,STAFFABLY,www.staffably.com,London,Danish Chaudhry,https://www.linkedin.com/in/djchaudhry/,STAFFABLY
 1943,COGNISESS,www.cognisess.com,Bath,Chris Butt,https://www.linkedin.com/in/cognisess/,COGNISESS
 1944,GIDEON SMART HOME,gideon.ai,London,Michele Galli,https://www.linkedin.com/in/ingmichelegalli/,GIDEON SMART HOME
@@ -1984,7 +1984,7 @@ index,name,website,city,officer,officer_linkedin,note
 1983,APEXX,www.apexxfintech.com,London,Emma Ayton,https://www.linkedin.com/in/emma-ayton-5357272b/,APEXX
 1984,ZAYA TECH LIMITED,www.za-ya.co,Cambridge,Murat Cakmak,https://www.linkedin.com/in/cakmakmurat/,ZAYA TECH LIMITED
 1985,DASHBOARD LIMITED,www.dashboard.net,London/Exeter,Piers Corfield,,DASHBOARD LIMITED
-1986,ZETAKO.INC,http:\\www.zetako.fr,"Saint Florent, Corsica, French island; New York City, United States",Marc Antoine Augugliaro,,ZETAKO.INC
+1986,ZETAKO.INC,http:\\www.zetako.fr,"Saint Florent, Corsica, French island / New York City, United States",Marc Antoine Augugliaro,,ZETAKO.INC
 1987,I AM THE AGENT LTD,https://www.iamtheagent.com/,London,Jade Donaldson,https://www.linkedin.com/in/jade-donaldson-031a3b4b/,I AM THE AGENT LTD
 1988,DIG CAT,xxxx,london,,,DIG CAT
 1989,STABL,www.wearestabl.com,Bristol/London,David McGuire,,STABL
@@ -2002,7 +2002,7 @@ index,name,website,city,officer,officer_linkedin,note
 2001,ALLSOFT LTD,https://cylix.io,Glasgow,Ionut Tudoreanu,,ALLSOFT LTD
 2002,CONNIDO LIMITED,http://bluebell.io/,London,Romi Mathew,https://www.linkedin.com/in/romimathew/,CONNIDO LIMITED
 2003,PLOTIST,www.plotist.com,London and Cambridge,Juan Cano,,PLOTIST
-2004,"SUPPASOCIAL LIMITED (""SUPPA"")",www.suppaapp.com,London,Sylvester Lewis,,"SUPPASOCIAL LIMITED (""SUPPA"")"
+2004,SUPPASOCIAL LIMITED,www.suppaapp.com,London,Sylvester Lewis,,"SUPPASOCIAL LIMITED (""SUPPA"")"
 2005,ID APP 4U LIMITED,hhtps://idapp4u.com,Bolton,John Heaney,,ID APP 4U LIMITED
 2006,CRONOFY,https://www.cronofy.com,"Nottingham, London",Adam Bird,https://www.linkedin.com/in/adambird/,CRONOFY
 2007,HULAH,https://hulah.com/,Croydon/Edinburgh,Jamie Snedden,,HULAH
@@ -2034,7 +2034,7 @@ index,name,website,city,officer,officer_linkedin,note
 2033,FREEMARKETFX LIMITED,www.freemarketfx.com,London,Alexander Hunn,https://www.linkedin.com/in/alexhunn/,FREEMARKETFX LIMITED
 2034,ADVENTORIS LTD,www.adventoris.com,Huddersfield,James Clarkson,www.linkedin.com/in/jamesnclarkson,ADVENTORIS LTD
 2035,VEEBRIJ UK LTD,www.talendrone.com,Leeds,Aman Sood,https://www.linkedin.com/in/aman-sood-99693763,VEEBRIJ UK LTD
-2036,GENERIC ROBOTICS LTD / TOIA LTD.,www.GenericRobotics.com & http://Toia.Tech,Reading,Dr Alastair Barrow,www.linkedin.com/in/allybarrow,GENERIC ROBOTICS LTD / TOIA LTD.
+2036,GENERIC ROBOTICS LTD,www.GenericRobotics.com & http://Toia.Tech,Reading,Dr Alastair Barrow,www.linkedin.com/in/allybarrow,GENERIC ROBOTICS LTD / TOIA LTD.
 2037,YBOO,www.yboo.co.uk,Leeds ,Martyn David Gould,https://www.linkedin.com/in/martynmvnoman/,YBOO
 2038,SAM LABS,www.samlabs.com ,London,Wies Millenaar,https://www.linkedin.com/in/wies-millenaar-99b3051b/,SAM LABS
 2039,SUSARO,http://www.susaro.com,Cambridge,Richard Loosemore,https://www.linkedin.com/in/richard-loosemore-47a2164/,SUSARO
@@ -2042,7 +2042,7 @@ index,name,website,city,officer,officer_linkedin,note
 2041,HELLO SODA,www.hellosoda.com,Manchester,James Blake,https://www.linkedin.com/in/james-blake-9865772/,HELLO SODA
 2042,MAGNAPASS,https://magnapass.co.uk,Manchester,Adam Barker,https://www.linkedin.com/in/adamdbarker1/,MAGNAPASS
 2043,AI BUILD,www.ai-build.com,London,Daghan Cam,https://www.linkedin.com/in/daghan-cam-11490629/,AI BUILD
-2044,SEEDLEGALS LTD,https://seedlegals.com/,"Suite 407, Metal Box Factory, 30 Great Guildford St, London SE1 0HS, United Kingdom",Laurent Laffy,https://www.linkedin.com/in/llaffy/,SEEDLEGALS LTD
+2044,SEEDLEGALS LTD,https://seedlegals.com/,London,Laurent Laffy,https://www.linkedin.com/in/llaffy/,SEEDLEGALS LTD
 2045,KAMI INTELLIGENCE LIMITED,https://kami.ai,Belfast,Alex Cheung,https://www.linkedin.com/in/alexclcheung/,KAMI INTELLIGENCE LIMITED
 2046,SERELAY LIMITED,we are in stealth mode (but own the domain www.serelay.com),Oxford,Roy Azoulay,https://www.linkedin.com/in/royazoulay/,SERELAY LIMITED
 2047,ECOBIKE LIMITED,www.ecobikeit.coc.uk,Manchester,Dane Smith-Burchnell,https://www.linkedin.com/in/dane-smith-burchnell-901aa076/,ECOBIKE LIMITED
@@ -2051,7 +2051,7 @@ index,name,website,city,officer,officer_linkedin,note
 2050,PURELIFI LTD.,www.purelifi.com,Edinburgh,Harald Burchardt,https://www.linkedin.com/company-beta/2719603/,PURELIFI LTD.
 2051,BUNDLE TECHNOLOGY,wearebundled.com and saveabundle.co.uk,Edinburgh,Clair Crawford,NA,BUNDLE TECHNOLOGY
 2052,VELEZA,,,Martynas Nikolajevas,https://linkedin.com/in/martynas,VELEZA
-2053,AUTONOMOUS MANUFACTURING (FORMERLY 3DPRINTEO LTD),,,Keyvan Karimi,https://www.linkedin.com/in/keyvank/,AUTONOMOUS MANUFACTURING (FORMERLY 3DPRINTEO LTD)
+2053,AUTONOMOUS MANUFACTURING,,,Keyvan Karimi,https://www.linkedin.com/in/keyvank/,AUTONOMOUS MANUFACTURING (FORMERLY 3DPRINTEO LTD)
 2054,TEST TRIANGLE,www.testtriangle.com,Dublin,Thomas Siddons,linkedin.com/in/thomassiddons,TEST TRIANGLE
 2055,BIGREDBUTTON,www.bigredbutton.com,Dublin,Paul Price,https://www.linkedin.com/in/paulgprice/,BIGREDBUTTON
 2056,BUENGO,,,Fela Hughes,https://www.linkedin.com/in/felahughes/,BUENGO
@@ -2065,7 +2065,7 @@ index,name,website,city,officer,officer_linkedin,note
 2064,WIZDISH LTD,www.wizdish.com,Oxford & London,Charles E King,https://www.linkedin.com/in/charles-king-34b8661,WIZDISH LTD
 2065,IBEX INNOVATIONS LIMITED,www.ibexinnovations.co.uk,Sedgefield,Dr Neil Loxley,www.linkedin.com/in/neil-loxley-bb71a32,IBEX INNOVATIONS LIMITED
 2066,FLEXYS SOLUTIONS LIMITED,www.flexys.co.uk,Bristol,Jon Hickman,https://www.linkedin.com/in/jonhickman000/,FLEXYS SOLUTIONS LIMITED
-2067,RESONANCE (GLOBAL RESONANCE LTD),www.global-resonance.com,London,Jason Cresswell,https://www.linkedin.com/in/jason-cresswell-59690998/,RESONANCE (GLOBAL RESONANCE LTD)
+2067,GLOBAL RESONANCE LTD,www.global-resonance.com,London,Jason Cresswell,https://www.linkedin.com/in/jason-cresswell-59690998/,RESONANCE (GLOBAL RESONANCE LTD)
 2068,MARBLE,,,Mathieu Johnsson,https://www.linkedin.com/in/mathieujohnsson,MARBLE
 2069,PEERPAY LIMITED,www.peerpay.uk,OUNDLE,Alan Burns,http://uk.linkedin.com/in/alandburns,PEERPAY LIMITED
 2070,WEALTHKERNEL,,,Karan Shanmugarajah,https://www.linkedin.com/in/kshanm,WEALTHKERNEL
@@ -2078,7 +2078,7 @@ index,name,website,city,officer,officer_linkedin,note
 2077,HUMAIN LTD,www.humain.co.uk,Belfast,Greg Maguire,linkedin.com/in/maguire,HUMAIN LTD
 2078,HOXTON ANALYTICS LIMITED,hoxtonanalytics.com,London,Owen McCormack,https://www.linkedin.com/in/owenmccormack/,HOXTON ANALYTICS LIMITED
 2079,BIG DATA FOR HUMANS LTD,www.bigdataforhumans.com,"Glagow, London and Singapore",Peter Ellen,https://www.linkedin.com/in/peterellen/,BIG DATA FOR HUMANS LTD
-2080,PASABI (CUNNING BLADE LTD),,,Chris Downie,https://www.linkedin.com/in/chris-downie-97a87a9/,PASABI (CUNNING BLADE LTD)
+2080,CUNNING BLADE LTD,,,Chris Downie,https://www.linkedin.com/in/chris-downie-97a87a9/,PASABI (CUNNING BLADE LTD)
 2081,VAULTORO,,,Joshua Scigala,https://www.linkedin.com/in/joshuascigala/,VAULTORO
 2082,AUTOCROC,www.autocroc.com,Maidenhead,Adrian Wheeler,https://www.linkedin.com/in/adrian-wheeler,AUTOCROC
 2083,PSYOMICS LTD,www.psyomics.com,Cambridge,Daniel Cowell,www.linkedin.com/in/dan-cowell-1242412015,PSYOMICS LTD
@@ -2153,7 +2153,7 @@ index,name,website,city,officer,officer_linkedin,note
 2152,PROPERR SOFTWARE LTD,,,Owen Derbyshire,https://www.linkedin.com/in/owenderbyshire/,PROPERR SOFTWARE LTD
 2153,MINCHIN & DOWSING GROUP LIMITED,,,Jack Minchin,https://www.linkedin.com/in/jack-minchin-974a10b9/,MINCHIN & DOWSING GROUP LIMITED
 2154,RESORT MARKETING LTD,,,Brian Cooper,,RESORT MARKETING LTD
-2155,FLEXPLANS T/AS PAYITMONTHLY,,,Brian Pursey,,FLEXPLANS T/AS PAYITMONTHLY
+2155,FLEXPLANS,,,Brian Pursey,,FLEXPLANS T/AS PAYITMONTHLY
 2156,APLATON SOLUTIONS,,,Tal Zohar Avda,https://www.linkedin.com/in/talavda/,APLATON SOLUTIONS
 2157,PLACEMAKE.IO,,,Chlump Chatkupt,https://www.linkedin.com/in/chlumpchatkupt/,PLACEMAKE.IO
 2158,MIRIBASE LIMITED,,,Kevin Jones,https://www.linkedin.com/in/kevinjonestecmark/,MIRIBASE LIMITED
@@ -2186,7 +2186,7 @@ index,name,website,city,officer,officer_linkedin,note
 2185,SHAREDBAND LIMITED,www.sharedband.com,Ipswich,,,SHAREDBAND LIMITED
 2186,B-SECURE,,,,,B-SECURE
 2187,MOVEGB,,,,,MOVEGB
-2188,1X2GURU (BUT NOT FOUNDED),,,,,1X2GURU (BUT NOT FOUNDED)
+2188,1X2GURU ,,,,,1X2GURU (BUT NOT FOUNDED)
 2189,ICARUSPARTS.COM,,,,,ICARUSPARTS.COM
 2190,SCORE GENIUS,https://www.scoregenius.co.uk,London,Damon Hirschl,https://www.linkedin.com/in/damon-hirschl-013b79b/,SCORE GENIUS
 2191,LAUNDRYHEAP,https://www.laundryheap.com,London,Deyan Dimitrov,https://www.linkedin.com/in/deyandimitrov/,LAUNDRYHEAP
@@ -2223,7 +2223,7 @@ index,name,website,city,officer,officer_linkedin,note
 2222,WESTGATE CYBER SECURITY LTD,https://enclave.io/,Newport,David Notley,https://www.linkedin.com/in/david-notley-6b8a168/,WESTGATE CYBER SECURITY LTD
 2223,CYDIGITAL,https://cyd.digital,San Francisco,Joseph Rizzo,https://www.linkedin.com/in/joemktg,CYDIGITAL
 2224,SPARKINITY,https://sparkinity.com/,London,Swati Sharma,https://www.linkedin.com/in/swatisharma6250s/,SPARKINITY
-2225,FOOMERANG LIMITED (T/A HOMECOOKED UK) ,https://homecookeduk.com/,London,Anestis Gaitanidis,https://www.linkedin.com/in/anestis-gaitanidis-787237179/,FOOMERANG LIMITED (T/A HOMECOOKED UK) (2ND APPLICATION)
+2225,FOOMERANG LIMITED,https://homecookeduk.com/,London,Anestis Gaitanidis,https://www.linkedin.com/in/anestis-gaitanidis-787237179/,FOOMERANG LIMITED (T/A HOMECOOKED UK) (2ND APPLICATION)
 2226,NEXFORD UNIVERSITY,https://www.nexford.org/,London,Fadl Al Tarzi,https://www.linkedin.com/in/ftarzi/,NEXFORD UNIVERSITY
 2227,GENERATION TRANSFER,http://www.generationtransfer.com,New York,Danny Feltsman,https://www.linkedin.com/in/danfeltsman/,GENERATION TRANSFER
 2228,EMPERION SCIENTIFIC EU LTD,,Newcastle upon Tyne,Thomas Huyton,https://www.linkedin.com/in/emperion-scientific-eu-b05338137/,EMPERION SCIENTIFIC EU LTD
@@ -2282,11 +2282,11 @@ index,name,website,city,officer,officer_linkedin,note
 2281,LYS TECHNOLOGIES LTD,https://lystechnologies.co.uk/,London,Christina Petersen,https://www.linkedin.com/in/christina-friis-blach-petersen-a5931a78/?originalSubdomain=uk,LYS TECHNOLOGIES LTD
 2282,ELASTICSTAGE LTD,https://elasticstage.com/,London,Steve Rhodes,https://www.linkedin.com/in/steve-rhodes-75b8a3120/,ELASTICSTAGE LTD
 2283,HALO ,http://www.localhalo.com,London,James Routledge,https://www.linkedin.com/in/jamesroutledge,HALO (2ND APPLICATION)
-2284,CODICES INTERACTIVE LTD. (THIRD APPLICATION),https://www.codices.io/,Penryn,Tim Edwards,https://www.linkedin.com/in/tim-edwards-b57a6920/,CODICES INTERACTIVE LTD. (THIRD APPLICATION)
+2284,CODICES INTERACTIVE LTD.,https://www.codices.io/,Penryn,Tim Edwards,https://www.linkedin.com/in/tim-edwards-b57a6920/,CODICES INTERACTIVE LTD. (THIRD APPLICATION)
 2285,CO.MUTE,https://www.co-mute.com,London,Neil Sharpe,https://www.linkedin.com/in/neilsharpe/,CO.MUTE
 2286,NEXVES ,https://www.Nexves.com,Aberdeen,Chris Herd,https://www.linkedin.com/in/chrisherd,NEXVES (2ND APPLICATION)
 2287,YOUTILITY,https://youtility.co.uk/,London,Will Kostoris,https://www.linkedin.com/in/will-kostoris-11519234/,YOUTILITY
-2288,ENERGYM® (WLF INNOVATIONS LTD),http://www.energym.io,Birmingham,Will Flint,https://www.linkedin.com/in/wflint/,ENERGYM® (WLF INNOVATIONS LTD)
+2288,WLF INNOVATIONS LTD,http://www.energym.io,Birmingham,Will Flint,https://www.linkedin.com/in/wflint/,ENERGYM® (WLF INNOVATIONS LTD)
 2289,FIRSTBASE,https://www.tofirstbase.com,Aberdeen,Christopher Herd,https://www.linkedin.com/in/chrisherd,FIRSTBASE
 2290,DISTRIBUTED MANAGEMENT SYSTEMS LTD ,https://www.casque.co.uk,Blackburn,Richard West,https://www.linkedin.com/in/dick-west-4090a81/,DISTRIBUTED MANAGEMENT SYSTEMS LTD (3RD APPLICATION)
 2291,RIGHTFIT TECHNOLOGIES LTD.,http://www.rightfit.ai,London,Nils Weng,https://www.linkedin.com/in/nils-weng/,RIGHTFIT TECHNOLOGIES LTD.
